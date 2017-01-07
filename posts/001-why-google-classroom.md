@@ -1,6 +1,12 @@
 # Why Google Classroom
 
-In the planning stages of the STEM program, it was a given that some form of online classroom was needed.  I had explored many options, and had origianly rejected Google Classroom, mainly because it required the use of Google Apps for Educaiton accounts, and, therefore, closed off from paretn and the world at large. One of my guiding principles is "Don't Repeat Yourslef"; as in, write once (message) and publish wherever (channels).
+In the planning stages of the STEM program, it was a given that some form of an online classroom was needed.  I had explored many options and had originally rejected Google Classroom, mainly because it required the use of Google Apps for Education accounts, and, therefore, closed off from parents and the world at large. One of my guiding principles is "Don't Repeat Yourself" - as in, Write Once (the message) and Publish Where-ever (the channels).  The closed nature of Google Classroom worked against that.  
+
+Interestingly, though, it was student choice that prompted the use of Google Classroom.  When asked to pick a Learning Management System, the Senior STEM students preferred Google Classroom fro the following reasons:
+
+* it is uncluttered and easy to use; 
+* there existed both iOS and Android apps;
+* the students did not have to create new accounts as most had a Google Apps for Education login.
 
 
 https://paligo.net/the-5-principles-of-single-sourcing/
