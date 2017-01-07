@@ -5,6 +5,7 @@
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+* [Grist for the Mill](grist.md)
 
 <!--
   **Q:** How do I get in touch with the people who are also doing this challenge?  
