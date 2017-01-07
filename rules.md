@@ -1,5 +1,11 @@
 # Rules of the 100 Days Of Writing Challenge
 
+## Contents
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
+* [FAQ](FAQ.md)
+* [Resources](resources.md)
+
 ## Main Commitment
 ### *I will write and publish at least 100 words every day for the next 100 days.*
 
