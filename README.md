@@ -1,7 +1,6 @@
 # I've challengeing myself to 100 Days Of Writing
 
 ## Contents
-* [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
 
