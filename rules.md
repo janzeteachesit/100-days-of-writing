@@ -5,6 +5,7 @@
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+* [Grist for the Mill](grist.md)
 
 ## Main Commitment
 ### *I will write and publish at least 100 words every day for the next 100 days.*
