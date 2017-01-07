@@ -3,9 +3,7 @@
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
-* [Grist for the Mill](grist.md)
+* [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
 
 ## If you've decided to join:
 1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
