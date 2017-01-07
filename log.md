@@ -37,3 +37,11 @@
 
 * [001-why-google-classroom.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/001-why-google-classroom.md)
 * [Why I Use Google Classroom: Or, What Do My Students’ Think of My Choices, Part 1](https://medium.com/designed-classroom/why-i-use-google-classroom-b2a987de6536)
+* [Why I Use Google Classroom - GDoc](https://docs.google.com/document/d/1C7IadIOnuLOwqdH9JAvVWxalILVCaNSpC_bS2hgq-r8/edit)
+
+**Details**
+
+* Pages 2
+* Words 372
+* Characters 2252
+* Characters excluding spaces 1896
