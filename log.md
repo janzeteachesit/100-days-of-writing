@@ -16,7 +16,12 @@
 
 **Today's Progress**: Why I am using Google Classroom
 
-**Thoughts**: related to getting student info/feedback; engaging/gaining user experience - interaction?; EMPATHIZE: Work to fully understand the experience of the user for whom you are designing.  Do this through observation, interaction, and immersing yourself in their experiences. [1] "engaging and empathizing with people to understand their experiences and motivations... Depending on time constraints, a substantial amount of information is gathered ... to develop the best possible understanding of the users, their needs, and the problems that underlie the development of that particular product." [3]  'The goal is to gather enough observations that you can truly begin to empathize with your users and their perspectives.' [4]  "... finding out what they value, what they want and how they look at the world." [5]
+**Thoughts**: related to getting student info/feedback; engaging/gaining user experience - interaction?; 
+
+* EMPATHIZE: Work to fully understand the experience of the user for whom you are designing.  Do this through observation, interaction, and immersing yourself in their experiences. [1] 
+* "engaging and empathizing with people to understand their experiences and motivations... Depending on time constraints, a substantial amount of information is gathered ... to develop the best possible understanding of the users, their needs, and the problems that underlie the development of that particular product." [3]  
+* 'The goal is to gather enough observations that you can truly begin to empathize with your users and their perspectives.' [4]  
+* "... finding out what they value, what they want and how they look at the world." [5]
 
 **Supporting Reserch**:
 
