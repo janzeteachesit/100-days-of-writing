@@ -5,6 +5,8 @@
 * [Log - click here to see my progress](log.md)
 * [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
 
+<!--
+
 ## If you've decided to join:
 1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 2. Fork this repo and commit to the [Log](log.md) daily. [Example](https://github.com/janzeteachesit/100-days-of-code/blob/master/log.md).
@@ -19,3 +21,5 @@
 ## Note
 * If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+
+-->
