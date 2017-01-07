@@ -36,3 +36,4 @@
 **Link(s) to work**
 
 * [001-why-google-classroom.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/001-why-google-classroom.md)
+* [Why I Use Google Classroom: Or, What Do My Students’ Think of My Choices, Part 1](https://medium.com/designed-classroom/why-i-use-google-classroom-b2a987de6536)
