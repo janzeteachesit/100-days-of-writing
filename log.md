@@ -3,6 +3,7 @@
 ## Contents
 * [Log - click here to see my progress](log.md)
 * [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
+
 <!--
 
 [My freeCodeCamp profile](https://www.freecodecamp.com/janzeteachesit) currently at [118]
