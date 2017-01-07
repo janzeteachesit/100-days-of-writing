@@ -1,3 +1,8 @@
-# GRIST for the MIFOR THE L
+# GRIST FOR THE MILL
 
-[My Medium Highlights](https://medium.com/@janzeteachesit/highlights
+## Contents
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
+* [FAQ](FAQ.md)
+* [Resources](resources.md)
+* [Grist for the Mill](grist.md)
