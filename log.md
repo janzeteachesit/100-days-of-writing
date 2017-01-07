@@ -10,9 +10,9 @@
 
 ### Day 1: January 6, 2016 Friday
 
-**Today's Progress**: // I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** // I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: 
 
 **Link(s) to work**
 
