@@ -8,11 +8,11 @@ Interestingly, though, it was student choice that prompted the use of Google Cla
 * there existed both iOS and Android apps;
 * the students did not have to create new accounts as most had a Google Apps for Education login.
 
-I now use Google Classroom for all of my classes now.  My original issues have been dealt through use, familiarity and upgrades.  
+I now use Google Classroom for all of my classes now. My original issues have been dealt with through use, familiarity and upgrades.
 
-Integration with YouTube, Google Forms, and other items from Google Drive (including PDFs) make it easy to develop, refine and reuse resources and lesson.
+Integration with Google Drive (including PDFs), YouTube, and other uploadable, embeddable or linkable online materials make it easy to develop, refine and reuse resources and lessons, allowing me to "Create Once, Publish Everywhere".
 
-Google recently added an "email summaries for guardians" feature.  Now, Parents or Guardians, once invited to Classroom, can receive regular emails about their student’s work and classes that include information about missing work, upcoming work, and class activity. 
+Google recently added an "email summaries for guardians" feature.  Now, Parents or Guardians, once invited to Classroom, can receive regular emails about their student’s work and classes that include information about missing work, upcoming work, and class activity. The closed world became a bit more open.
 
 All-in-all, as a teacher, I am very satisfied with these and the many other features available in Google Classroom.
 
