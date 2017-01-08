@@ -1,4 +1,4 @@
-# I've challengeing myself to 100 Days Of Writing
+# I've challenging myself to 100 Days Of Writing
 
 ## Contents
 * [Log - click here to see my progress](log.md)
