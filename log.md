@@ -4,15 +4,60 @@
 * [Log - click here to see my progress](log.md)
 * [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
 
-<!--
 
-[My freeCodeCamp profile](https://www.freecodecamp.com/janzeteachesit) currently at [118]
+[My Medium Profile](https://medium.com/@janzeteachesit)
 
-[My Codepen profile](https://codepen.io/janzeteachesit/)
+### Day 000: January 6, 2016 Friday
 
--->
+**Today's Progress**: 
 
-### Day 1: January 6, 2016 Friday
+**Thoughts**: 
+
+**Supporting Research**:
+
+**Link(s) to work**
+
+**Details**
+
+* Pages	1
+* Words	351
+* Characters	2081
+* Characters excluding spaces	1747
+
+
+### Day 1: January 8, 2016 Sunday
+
+**Today's Progress**: Thank-you, Rob Muhlestein
+
+**Thoughts**: 
+
+**Link(s) to work**
+* [Thank-you, Rob Muhlestein](https://medium.com/@janzeteachesit/thank-you-rob-muhlestein-fadac38cfb42#.dnhl801pw)
+* [GitHub - Thank-you, Rob Muhlestein](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/002-thank-you-rob-muhlestein.md)
+* [GDoc: Thank-you, Rob Muhlestein](https://docs.google.com/document/d/1VZztHV_aZTtAXk3Y-hPsveklaNKMaDuQBQm-BupMZUM/edit)
+
+**Details**
+
+* Pages	1
+* Words	351
+* Characters	2081
+* Characters excluding spaces	1747
+
+
+### Day 2: January 7, 2016 Saturday
+
+**Today's Progress**: Started STEM 8 Math GitBook
+
+**Thoughts**: Too much setup, not enough writing.
+
+**Supporting Research**:
+
+**Link(s) to work**
+
+**Details**
+
+
+### Day 12: January 6, 2016 Friday
 
 **Today's Progress**: Why I am using Google Classroom
 
@@ -23,15 +68,13 @@
 * 'The goal is to gather enough observations that you can truly begin to empathize with your users and their perspectives.' [4]  
 * "... finding out what they value, what they want and how they look at the world." [5]
 
-**Supporting Reserch**:
+**Supporting Research**:
 
 1. [The Design Thinking Process - d.school](http://dschool.stanford.edu/redesigningtheater/the-design-thinking-process/)
 2. [ModeGuideBOOTCAMP2010L.pdf](https://dschool.stanford.edu/sandbox/groups/designresources/wiki/36873/attachments/74b3d/ModeGuideBOOTCAMP2010L.pdf?sessionID=e62aa8294d323f1b1540d3ee21e961cf7d1bce38)
 3. [5 Stages in the Design Thinking Process - IDF](https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process)
 4. [Design Thinking 101 - Nielsen Group](https://www.nngroup.com/articles/design-thinking/)
 5. [The 5 steps of Design Thinking](http://www.knctlab.com/blog/5-steps-design-thinking)
-
-
 
 **Link(s) to work**
 
