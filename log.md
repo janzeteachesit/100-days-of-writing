@@ -29,8 +29,6 @@
 
 **Today's Progress**: Thank-you, Rob Muhlestein
 
-**Thoughts**: 
-
 **Link(s) to work**
 * [Thank-you, Rob Muhlestein](https://medium.com/@janzeteachesit/thank-you-rob-muhlestein-fadac38cfb42#.dnhl801pw)
 * [GitHub - Thank-you, Rob Muhlestein](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/002-thank-you-rob-muhlestein.md)
@@ -50,11 +48,7 @@
 
 **Thoughts**: Too much setup, not enough writing.
 
-**Supporting Research**:
-
 **Link(s) to work**
-
-**Details**
 
 
 ### Day 001: January 6, 2016 Friday
