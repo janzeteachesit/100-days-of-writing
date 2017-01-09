@@ -25,7 +25,7 @@
 * Characters excluding spaces	1747
 
 
-### Day 1: January 8, 2016 Sunday
+### Day 003: January 8, 2016 Sunday
 
 **Today's Progress**: Thank-you, Rob Muhlestein
 
@@ -44,7 +44,7 @@
 * Characters excluding spaces	1747
 
 
-### Day 2: January 7, 2016 Saturday
+### Day 002: January 7, 2016 Saturday
 
 **Today's Progress**: Started STEM 8 Math GitBook
 
@@ -57,7 +57,7 @@
 **Details**
 
 
-### Day 12: January 6, 2016 Friday
+### Day 001: January 6, 2016 Friday
 
 **Today's Progress**: Why I am using Google Classroom
 
