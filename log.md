@@ -26,7 +26,7 @@
 
 ### Day 004: January 9, 2016 Monday
 
-**Today's Progress**: wanted to write about meeting today after school -- too sick from cold, and to tired from sooo many meetings today.
+**Today's Progress**: wanted to write about meeting today after school -- too sick from cold, and to tired from sooo many meetings today.  Goal-setting + Reflection = Growth.  Distributed Intelligence.
 
 **Thoughts**: 
 
