@@ -19,11 +19,28 @@
 
 **Details**
 
-* Pages	1
-* Words	351
-* Characters	2081
-* Characters excluding spaces	1747
+* Pages:
+* Words:
+* Characters:	
+* Characters excluding spaces:
 
+### Day 004: January 9, 2016 Monday
+
+**Today's Progress**: wanted to write about meeting today after school -- too sick from cold, and to tired from sooo many meetings today.
+
+**Thoughts**: 
+
+**Supporting Research**:
+
+**Link(s) to work**
+* [GitHub communicating-student-learning-day-2 unfinished](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/004-communicating-student-learning-day-2)
+
+**Details**
+
+* Pages:
+* Words:
+* Characters:	
+* Characters excluding spaces:
 
 ### Day 003: January 8, 2016 Sunday
 
