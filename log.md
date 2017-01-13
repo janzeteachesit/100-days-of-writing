@@ -24,6 +24,41 @@
 * Characters:	
 * Characters excluding spaces:
 
+
+
+### Day 008: January 13, 2016 Friday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Supporting Research**:
+* [Deeper Learning - Wikipedia](https://www.wikiwand.com/en/Deeper_learning)
+
+### Day 007: January 120, 2016 Thursday
+
+**Today's Progress**: 
+
+**Thoughts**: STEM Inquriy
+
+**Supporting Research**:
+
+### Day 006: January 11, 2016 Wednesday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Supporting Research**:
+
+### Day 005: January 10, 2016 Tuesday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Supporting Research**:
+
 ### Day 004: January 9, 2016 Monday
 
 **Today's Progress**: wanted to write about meeting today after school -- too sick from cold, and to tired from sooo many meetings today.  Goal-setting + Reflection = Growth.  Distributed Intelligence.
