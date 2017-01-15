@@ -4,7 +4,7 @@
 
 ## Beginning
 
-### Thesis - 
+### Thesis - Papert's First Thesis, according to David Ng @dng_16133: no such thing as easy or hard subjects, only domains with abundant materials or sparse materials
 
 ## Middle
 
@@ -46,6 +46,10 @@ __*establish*__ relationship early in the piece, __*sustain*__ it through consis
 > Papert has taken the most traditional subjects - maths and science - and has begun to restructure them to fit the user. Papert and his supporters have created an interesting maths-land and science-land that are both user friendly and powerful learning environments.
 
 [hyotheis.is](https://hyp.is/tZxWvtrkEea47aOfeOrrZg/www.users.on.net/~billkerr/a/papert.htm)
+
+[Mindstorms PDF](http://www.arvindguptatoys.com/arvindgupta/mindstorms.pdf)
+
+>  When a teacher tells a student that the reason for those many hours of arithmetic is to be able to check the change at the supermarket, the teacher is simply not be-lieved. Children see such “reasons” as one more example of adult double talk. The same effect is produced when children are told school math is “fun” when they are pretty sure that teachers who say so spend their leisure hours on anything except this allegedly fun-filled activity. Nor does it help to tell them that they need math to become scientists most children don’t have such a plan. The children can see perfectly well that the teacher does not like math any more than they do and that the reason for doing it is simply that it has been inscribed into the curriculum. All of this erodes children’s confidence in the adult world and the process of educa-tion. And I think it introduces a deep element of dishonesty into the educational relationship.
 
 
 
