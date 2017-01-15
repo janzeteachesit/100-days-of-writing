@@ -13,6 +13,6 @@
 
 ## End
 
-## self-supporting structure
+## __Self-Supporting Structure / EST list__
 
-_establish_ relationship early in the piece, _sustain_ it through consistent description, and perhaps _transform_ it when new factors are introduced
+__*establish*__ relationship early in the piece, __*sustain*__ it through consistent description, and perhaps __*transform*__ it when new factors are introduced
