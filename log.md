@@ -16,6 +16,48 @@
 **Supporting Research**:
 
 **Link(s) to work**
+* [medium]()
+* [GitHub ](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/.md)
+* [Gdoc ](https://docs.google.com/document/d/)
+
+**Details**
+
+* Pages:
+* Words:
+* Characters:	
+* Characters excluding spaces:
+
+### Day 010: January 15, 2016 Sunday
+
+**Today's Progress**: Spent WAAAAAY to lon writing "Learningland".
+
+**Thoughts**: Good piece though.  It is actually at least 3 pieces, so it is not all bad.
+
+**Supporting Research**:
+* [domains-with-abundant-materials-or-sparse-materials.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/domains-with-abundant-materials-or-sparse-materials.md)
+
+**Link(s) to work**
+* [Learningland]()
+* [GitHub Learning Land](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/010-learningland.md)
+* [Gdoc Learningland](https://docs.google.com/document/d/1ZJqBTBlpNWMQlYnPzcpRsv5hY_T5hSYgNigL-aFz2no/edit)
+
+
+**Details**
+
+* Pages: 2
+* Words: 665
+* Characters:	 3913
+* Characters excluding spaces: 3267
+
+### Day 009: January 14, 2016 Saturday
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Supporting Research**:
+
+**Link(s) to work**
 
 **Details**
 
