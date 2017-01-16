@@ -35,6 +35,8 @@ Ng finishes with:
 
 Which brings me full circle.  How can I use this to support to students as they learn Math, Science or Computer Science?  How do I build the Learningland materials my student need and deserve? 
 
+___
+
 * that they will develop personal and relevant connections with some of those materials, and you will construct your own understanding of math.
 
 * μανθάνω (manthano), while the modern Greek equivalent is μαθαίνω (mathaino), both of which mean "to learn". - [Wikipedia](https://en.wikipedia.org/wiki/Mathematics?oldformat=true)
