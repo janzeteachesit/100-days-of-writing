@@ -8,21 +8,32 @@ Ng's thesis is that many have been missed the core message of Papert's _Mindstor
 
 > There is a lot to learn from Papert and his amazing body of work—but not if we continue misunderstanding him.
 
+Ng follows with the first of two theses present in _Mindstorms_, namely:
+
+> ... there’s no such thing as easy or hard subjects, only domains with abundant materials or sparse materials.
+
+Ng presents Papert as arguing that anyone can learn math as naturally and easily as children learn French in France if they grow up immersed in an environment rich in math materials, a “Mathland”; the problem being that we exist in a culture that is not neutral to math, but is deeply mathophobic and that people who grow up in a mathophobic culture are generally incapable of building "Mathland" materials.  Ng continues with other thesis: 
+
+> Because a computer can be programmed to take on different functions, maybe children can use computers to build their own materials, bypassing adults and inoculating themselves from the mathophobic culture.
+
+It is here that Ng presents Papert's blindspot and the root of the "misunderstanding": 
+
+> When Papert discusses cultural mathophobia, he makes it clear he means the fear of learning, not just the fear of math. “Math” is the root word for learning in Greek. 
 
 
-I was really struck his interperetation of Papert's _Mindstorms_, specifically how he characterizes the first of what he presents as _"two central theses"_:
-
-> The first thesis is there’s no such thing as easy or hard subjects, only domains with abundant materials or sparse materials.
-
-Ng then how Papert compares the learning of 
-
-that a child learns to speak French in France due to the abundant materials for learning - namely complete immersion in the language, whereas learning a different domain of knowledge, like Math, does not occur due to the puacity of Math "materials" surrounding us; and that to be as equally conversant in Math would require living in a
-
-Papert presents argument that we live in a Mathophobic culture, an "Anti-Mathland" if you will, where not only is there sparse materials for constructing an meaningful understanding of Math, but that any  
 
 
+* μανθάνω (manthano), while the modern Greek equivalent is μαθαίνω (mathaino), both of which mean "to learn". - [Wikipedia](https://en.wikipedia.org/wiki/Mathematics?oldformat=true)
 
-To get around this seemingly insurmountable obstacle, Papert advances a second thesis. Because a computer can be programmed to take on different functions, maybe children can use computers to build their own materials, bypassing adults and inoculating themselves from the mathophobic culture. 
+* I was really struck his interperetation of Papert's _Mindstorms_, specifically how he characterizes the first of what he presents as _"two central theses"_:
+
+* that a child learns to speak French in France due to the abundant materials for learning - namely complete immersion in the language, whereas learning a different domain of knowledge, like Math, does not occur due to the puacity of Math "materials" surrounding us; and that to be as equally conversant in Math would require living in a "Mathland"
+
+* Papert presents argument that we live in a Mathophobic culture, an "Anti-Mathland" if you will, where not only is there sparse materials for constructing an meaningful understanding of Math, but that any  
+
+
+
+To get around this seemingly insurmountable obstacle,  
 
 It’s clear this second thesis is a Hail Mary pass. Papert doesn’t propose that children in France build their own materials for learning French. It’s access to raw materials that matters, not who provides them. If children have access to the materials they need to construct their own understanding, they will. He only proposes children use computers to build their own Mathland materials because he knows the adults can’t.
 
