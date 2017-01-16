@@ -37,7 +37,7 @@
 * [domains-with-abundant-materials-or-sparse-materials.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/domains-with-abundant-materials-or-sparse-materials.md)
 
 **Link(s) to work**
-* [Learningland]()
+* [Learningland](https://medium.com/@janzeteachesit/learningland-52c4a639d5c9#.uchh4k62h)
 * [GitHub Learning Land](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/010-learningland.md)
 * [Gdoc Learningland](https://docs.google.com/document/d/1ZJqBTBlpNWMQlYnPzcpRsv5hY_T5hSYgNigL-aFz2no/edit)
 
