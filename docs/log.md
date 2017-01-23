@@ -1,8 +1,9 @@
 # 100 Days Of Writing - Log
 
 ## Contents
-* [Log - click here to see my progress](./log.md)
 * [Main](./readme.md)
+* [Log - click here to see my progress](./log.md)
+* [How am I doing so far?](./tally.md)
 * [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
 
 
