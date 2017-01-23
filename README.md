@@ -2,6 +2,7 @@
 
 ## Contents
 * [Log - click here to see my progress](./docs/log.md)
+* [Main](./docs/readme.md)
 * [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
 
 <!--
