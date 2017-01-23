@@ -1,4 +1,4 @@
-[Main](./readme.md)
+[Main](./readme.md) | [Read on Medium](https://medium.com/@janzeteachesit/thank-you-rob-muhlestein-fadac38cfb42#.dnhl801pw)
 
 https://medium.com/@robmuh/what-an-amazing-article-76fa7dbb7e29#b6b2
 
