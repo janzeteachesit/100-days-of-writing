@@ -6,8 +6,8 @@
 * [How am I doing so far?](./tally.md)
 * [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
 
-
 [My Medium Profile](https://medium.com/@janzeteachesit)
+[My Learning Diary](https://janzeteachesit.github.io/Learning-Diary/)
 
 ### January 6, 2016 Friday
 
@@ -18,8 +18,6 @@
 **Thoughts**: 
 
 **Supporting Research**:
-* [My Learning Diary - GitHub](https://github.com/janzeteachesit/Learning-Diary)
-* [My Learning Diary - gh-pages](https://janzeteachesit.github.io/Learning-Diary/)
 
 **Link(s) to work**
 * [medium]()
@@ -38,16 +36,19 @@
 ### January 22, 2016 Sunday
 
 #### 4 / 100
-**Today's Progress**: 
+
+**Today's Progress**: started .md file; spent a lot of time setting up gh-pages and updating existing posts/writing/... to work on gh-pages.  [Medium WIP](https://medium.com/@janzeteachesit/workflow-a043e9cd3272)
 
 **Thoughts**: Diary entry; outline my process; connect to learning diary;
 
 **Supporting Research**:
+* [My Learning Diary - GitHub](https://github.com/janzeteachesit/Learning-Diary)
+* [My Learning Diary - gh-pages](https://janzeteachesit.github.io/Learning-Diary/)
 
 **Link(s) to work**
 * [medium]()
-* [GitHub ](./.md)
-* [Gdoc ](https://docs.google.com/document/d/)
+* [GitHub ](./004-writing-workflow.md.md)
+* [Gdoc ](https://docs.google.com/document/d/1ZD4PGwJZzWoqW0op21N04Md8dOVg73QJX393qK-3acs/edit)
 
 **Details**
 
