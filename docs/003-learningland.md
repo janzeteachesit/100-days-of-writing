@@ -1,4 +1,4 @@
-[Main](./readme.md)
+[Main](./readme.md) | [Read on Medium](https://medium.com/@janzeteachesit/learningland-52c4a639d5c9#.uchh4k62h)
 
 #Learningland
 ## David Ng @dng_16133 on Seymour Papert's _Mindstorms_ 
