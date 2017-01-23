@@ -7,7 +7,9 @@
 
 [My Medium Profile](https://medium.com/@janzeteachesit)
 
-### Day 000: January 6, 2016 Friday
+### January 6, 2016 Friday
+
+#### / 100
 
 **Today's Progress**: 
 
@@ -27,7 +29,30 @@
 * Characters:	
 * Characters excluding spaces:
 
-### Day 010: January 15, 2016 Sunday
+### January 6, 2016 Friday
+
+#### 6 / 100
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Supporting Research**:
+
+**Link(s) to work**
+* [medium]()
+* [GitHub ](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/.md)
+* [Gdoc ](https://docs.google.com/document/d/)
+
+**Details**
+
+* Pages:
+* Words:
+* Characters:	
+* Characters excluding spaces:
+
+### January 15, 2016 Sunday
+
+#### 5 / 100
 
 **Today's Progress**: Spent WAAAAAY to long writing "Learningland".
 
@@ -49,7 +74,7 @@
 * Characters:	 3913
 * Characters excluding spaces: 3267
 
-### Day 008: January 13, 2016 Friday
+### January 13, 2016 Friday
 
 **Today's Progress**: 
 
@@ -58,7 +83,7 @@
 **Supporting Research**:
 * [Deeper Learning - Wikipedia](https://www.wikiwand.com/en/Deeper_learning)
 
-### Day 007: January 120, 2016 Thursday
+### January 12, 2016 Thursday
 
 **Today's Progress**: 
 
@@ -66,7 +91,9 @@
 
 **Supporting Research**:
 
-### Day 004: January 9, 2016 Monday
+### January 9, 2016 Monday
+
+#### 4 / 100
 
 **Today's Progress**: wanted to write about meeting today after school -- too sick from cold, and to tired from sooo many meetings today.  Goal-setting + Reflection = Growth.  Distributed Intelligence.
 
@@ -84,7 +111,9 @@
 * Characters:	
 * Characters excluding spaces:
 
-### Day 003: January 8, 2016 Sunday
+### January 8, 2016 Sunday
+
+#### 3 / 100
 
 **Today's Progress**: Thank-you, Rob Muhlestein
 
@@ -101,7 +130,9 @@
 * Characters excluding spaces	1747
 
 
-### Day 002: January 7, 2016 Saturday
+### January 7, 2016 Saturday
+
+#### 2 / 100
 
 **Today's Progress**: Started STEM 8 Math GitBook
 
@@ -110,7 +141,9 @@
 **Link(s) to work**
 
 
-### Day 001: January 6, 2016 Friday
+### January 6, 2016 Friday
+
+#### 1 / 100
 
 **Today's Progress**: Why I am using Google Classroom
 
