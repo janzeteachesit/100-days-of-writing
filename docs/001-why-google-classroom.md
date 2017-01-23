@@ -1,3 +1,5 @@
+[Main](./readme.md)
+
 # Why Google Classroom
 
 In the planning stages of the STEM program, it was a given that some form of an online classroom was needed.  I had explored many options and had originally rejected Google Classroom, mainly because it required the use of Google Apps for Education accounts, and, therefore, closed off from parents and the world at large. As well, one of my guiding principles is D.R.Y. "Don't Repeat Yourself" - as in, Write Once (the message) and Publish Where-ever (the channels).  The closed nature of Google Classroom worked against that.  
