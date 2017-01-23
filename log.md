@@ -29,7 +29,9 @@
 * Characters:	
 * Characters excluding spaces:
 
-### January 6, 2016 Friday
+---
+
+### January 22, 2016 Sunday
 
 #### 6 / 100
 **Today's Progress**: 
@@ -49,6 +51,8 @@
 * Words:
 * Characters:	
 * Characters excluding spaces:
+
+---
 
 ### January 15, 2016 Sunday
 
@@ -74,22 +78,20 @@
 * Characters:	 3913
 * Characters excluding spaces: 3267
 
+---
+
 ### January 13, 2016 Friday
-
-**Today's Progress**: 
-
-**Thoughts**: 
 
 **Supporting Research**:
 * [Deeper Learning - Wikipedia](https://www.wikiwand.com/en/Deeper_learning)
 
-### January 12, 2016 Thursday
+---
 
-**Today's Progress**: 
+### January 12, 2016 Thursday
 
 **Thoughts**: STEM Inquriy
 
-**Supporting Research**:
+---
 
 ### January 9, 2016 Monday
 
@@ -97,19 +99,10 @@
 
 **Today's Progress**: wanted to write about meeting today after school -- too sick from cold, and to tired from sooo many meetings today.  Goal-setting + Reflection = Growth.  Distributed Intelligence.
 
-**Thoughts**: 
-
-**Supporting Research**:
-
 **Link(s) to work**
 * [GitHub communicating-student-learning-day-2 unfinished](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/004-communicating-student-learning-day-2)
 
-**Details**
-
-* Pages:
-* Words:
-* Characters:	
-* Characters excluding spaces:
+---
 
 ### January 8, 2016 Sunday
 
@@ -129,6 +122,7 @@
 * Characters	2081
 * Characters excluding spaces	1747
 
+---
 
 ### January 7, 2016 Saturday
 
@@ -138,8 +132,7 @@
 
 **Thoughts**: Too much setup, not enough writing.
 
-**Link(s) to work**
-
+---
 
 ### January 6, 2016 Friday
 
