@@ -1,4 +1,4 @@
-[Main](./readme.md)
+[Main](./readme.md) | [Read on Medium](https://medium.com/designed-classroom/why-i-use-google-classroom-b2a987de6536)
 
 # Why Google Classroom
 
