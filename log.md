@@ -16,10 +16,12 @@
 **Thoughts**: 
 
 **Supporting Research**:
+* [My Learning Diary - GitHub](https://github.com/janzeteachesit/Learning-Diary)
+* [My Learning Diary - gh-pages](https://janzeteachesit.github.io/Learning-Diary/)
 
 **Link(s) to work**
 * [medium]()
-* [GitHub ](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/.md)
+* [GitHub ](https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/.md)
 * [Gdoc ](https://docs.google.com/document/d/)
 
 **Details**
@@ -33,16 +35,16 @@
 
 ### January 22, 2016 Sunday
 
-#### 6 / 100
+#### 5 / 100
 **Today's Progress**: 
 
-**Thoughts**: 
+**Thoughts**: Diary entry; outline my process; connect to learning diary;
 
 **Supporting Research**:
 
 **Link(s) to work**
 * [medium]()
-* [GitHub ](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/.md)
+* [GitHub ](https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/.md)
 * [Gdoc ](https://docs.google.com/document/d/)
 
 **Details**
@@ -56,7 +58,7 @@
 
 ### January 15, 2016 Sunday
 
-#### 5 / 100
+#### 4 / 100
 
 **Today's Progress**: Spent WAAAAAY to long writing "Learningland".
 
@@ -67,7 +69,7 @@
 
 **Link(s) to work**
 * [Learningland](https://medium.com/@janzeteachesit/learningland-52c4a639d5c9#.uchh4k62h)
-* [GitHub Learning Land](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/010-learningland.md)
+* [GitHub Learning Land](https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/003-learningland.md)
 * [Gdoc Learningland](https://docs.google.com/document/d/1ZJqBTBlpNWMQlYnPzcpRsv5hY_T5hSYgNigL-aFz2no/edit)
 
 
@@ -95,7 +97,7 @@
 
 ### January 9, 2016 Monday
 
-#### 4 / 100
+#### 3 / 100
 
 **Today's Progress**: wanted to write about meeting today after school -- too sick from cold, and to tired from sooo many meetings today.  Goal-setting + Reflection = Growth.  Distributed Intelligence.
 
@@ -106,7 +108,7 @@
 
 ### January 8, 2016 Sunday
 
-#### 3 / 100
+#### 2 / 100
 
 **Today's Progress**: Thank-you, Rob Muhlestein
 
@@ -125,8 +127,6 @@
 ---
 
 ### January 7, 2016 Saturday
-
-#### 2 / 100
 
 **Today's Progress**: Started STEM 8 Math GitBook
 
