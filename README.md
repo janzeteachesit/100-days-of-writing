@@ -1,7 +1,7 @@
 # I've challenging myself to 100 Days Of Writing
 
 ## Contents
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](./docs/log.md)
 * [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
 
 <!--
