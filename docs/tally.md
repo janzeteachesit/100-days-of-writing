@@ -1,4 +1,11 @@
-# The List
+# How am I doing so far?
+
+## Contents
+* [Main](./readme.md)
+* [Log - click here to see my progress](./log.md)
+* [How am I doing so far?](./tally.md)
+* [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
+
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 8 | 10
 ---|---|---|---|---|---|---|---|---|---
