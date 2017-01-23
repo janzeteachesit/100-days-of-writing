@@ -35,7 +35,7 @@
 
 ### January 22, 2016 Sunday
 
-#### 5 / 100
+#### 4 / 100
 **Today's Progress**: 
 
 **Thoughts**: Diary entry; outline my process; connect to learning diary;
