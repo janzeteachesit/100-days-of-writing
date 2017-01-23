@@ -29,7 +29,7 @@
 
 ### Day 010: January 15, 2016 Sunday
 
-**Today's Progress**: Spent WAAAAAY to lon writing "Learningland".
+**Today's Progress**: Spent WAAAAAY to long writing "Learningland".
 
 **Thoughts**: Good piece though.  It is actually at least 3 pieces, so it is not all bad.
 
@@ -49,25 +49,6 @@
 * Characters:	 3913
 * Characters excluding spaces: 3267
 
-### Day 009: January 14, 2016 Saturday
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Supporting Research**:
-
-**Link(s) to work**
-
-**Details**
-
-* Pages:
-* Words:
-* Characters:	
-* Characters excluding spaces:
-
-
-
 ### Day 008: January 13, 2016 Friday
 
 **Today's Progress**: 
@@ -82,22 +63,6 @@
 **Today's Progress**: 
 
 **Thoughts**: STEM Inquriy
-
-**Supporting Research**:
-
-### Day 006: January 11, 2016 Wednesday
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Supporting Research**:
-
-### Day 005: January 10, 2016 Tuesday
-
-**Today's Progress**: 
-
-**Thoughts**: 
 
 **Supporting Research**:
 
