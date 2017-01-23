@@ -23,7 +23,7 @@
 
 **Link(s) to work**
 * [medium]()
-* [GitHub ](https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/.md)
+* [GitHub ](./.md)
 * [Gdoc ](https://docs.google.com/document/d/)
 
 **Details**
@@ -46,7 +46,7 @@
 
 **Link(s) to work**
 * [medium]()
-* [GitHub ](https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/.md)
+* [GitHub ](./.md)
 * [Gdoc ](https://docs.google.com/document/d/)
 
 **Details**
@@ -71,7 +71,7 @@
 
 **Link(s) to work**
 * [Learningland](https://medium.com/@janzeteachesit/learningland-52c4a639d5c9#.uchh4k62h)
-* [GitHub Learning Land](https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/003-learningland.md)
+* [GitHub Learning Land](./003-learningland.md)
 * [Gdoc Learningland](https://docs.google.com/document/d/1ZJqBTBlpNWMQlYnPzcpRsv5hY_T5hSYgNigL-aFz2no/edit)
 
 
@@ -116,7 +116,7 @@
 
 **Link(s) to work**
 * [Thank-you, Rob Muhlestein](https://medium.com/@janzeteachesit/thank-you-rob-muhlestein-fadac38cfb42#.dnhl801pw)
-* [GitHub - Thank-you, Rob Muhlestein](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/002-thank-you-rob-muhlestein.md)
+* [GitHub - Thank-you, Rob Muhlestein](./002-thank-you-rob-muhlestein.md)
 * [GDoc: Thank-you, Rob Muhlestein](https://docs.google.com/document/d/1VZztHV_aZTtAXk3Y-hPsveklaNKMaDuQBQm-BupMZUM/edit)
 
 **Details**
@@ -159,7 +159,7 @@
 
 **Link(s) to work**
 
-* [001-why-google-classroom.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/001-why-google-classroom.md)
+* [001-why-google-classroom.md](./001-why-google-classroom.md)
 * [Why I Use Google Classroom: Or, What Do My Students’ Think of My Choices, Part 1](https://medium.com/designed-classroom/why-i-use-google-classroom-b2a987de6536)
 * [Why I Use Google Classroom - GDoc](https://docs.google.com/document/d/1C7IadIOnuLOwqdH9JAvVWxalILVCaNSpC_bS2hgq-r8/edit)
 
