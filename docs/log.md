@@ -47,8 +47,8 @@
 
 **Link(s) to work**
 * [medium]()
-* [GitHub ](./004-writing-workflow.md.md)
-* [Gdoc ](https://docs.google.com/document/d/1ZD4PGwJZzWoqW0op21N04Md8dOVg73QJX393qK-3acs/edit)
+* [Workflow - GitHub](./004-writing-workflow.md.md)
+* [Workflow - Gdoc ](https://docs.google.com/document/d/1ZD4PGwJZzWoqW0op21N04Md8dOVg73QJX393qK-3acs/edit)
 
 **Details**
 
