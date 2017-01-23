@@ -10,7 +10,7 @@
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 8 | 10
 ---|---|---|---|---|---|---|---|---|---
-<s><a href="https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/001-why-google-classroom.md">001</a></s>|<s><a href="https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/002-thank-you-rob-muhlestein.md">002</a></s>|<s><a href="https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/003-learningland.md">003</a></s>|004|005|006|007|008|009|010
+<s><a href="./001-why-google-classroom.md">001</a></s>|<s><a href="./002-thank-you-rob-muhlestein.md">002</a></s>|<s><a href="./003-learningland.md">003</a></s>|004|005|006|007|008|009|010
 011|012|013|014|015|016|017|018|019|020
 021|022|023|024|025|026|027|028|029|030
 031|032|033|034|035|036|037|038|039|040
