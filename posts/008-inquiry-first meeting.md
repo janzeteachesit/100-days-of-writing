@@ -38,3 +38,7 @@ Teachers should refer any questions to their principals and vice-principals or P
 
 
 # Professional Resource Funding support – each school applying will receive between $200-400 per site, depending on size, for resources in support of the inquiry. 
+
+https://docs.google.com/document/d/1uclTWUC1S9M6xnGgtgf5V7if1e7Qppz699ZivNwlHA8/edit?usp=sharing
+
+
