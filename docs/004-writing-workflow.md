@@ -17,14 +17,25 @@
 
 ---
 updated text:
-In GitHub, create new entry in the log.
-In GitHub, create new .md file for notes and rough draft or outline.
-After ~ 200 words — open Grammarly, copy/paste and check; go back and forth until happy.
-Open Google Drive Doc Writing Template. Make a copy and copy/paste content of .md file; add a link to GDoc in the log; check spellings (against my dictionary); do a word count. 
-Create New Story at Medium, copy/paste the contents of the Google Doc, and edit for layout.
-Search GImages => Tools => Usage Rights => Non-commercial reuse with modifications if the story doesn’t come with images.
-Publish: add Tags —  janzeteachesit, … —  share on twitter; change license — Attribution, non-commercial, share alike.
-Get link and paste in log
+1. In GitHub, create new entry in the log.
+2. In GitHub, create new .md file for notes and rough draft or outline.
+3. fter ~ 200 words — open Grammarly, copy/paste and check; go back and forth until happy.
+4. Open Google Drive Doc Writing Template. Make a copy and copy/paste content of .md file; add a link to GDoc in the log; check spellings (against my dictionary); do a word count. 
+5. Create New Story at Medium, copy/paste the contents of the Google Doc, and edit for layout.
+6. Search GImages => Tools => Usage Rights => Non-commercial reuse with modifications if the story doesn’t come with images.
+7. Publish: add Tags —  janzeteachesit, … —  share on twitter; change license — Attribution, non-commercial, share alike.
+8. Get link and paste in log
+
+
+* [My (Current) Publishing Workflow - Medium](https://medium.com/@janzeteachesit/my-current-publishing-workflow-a043e9cd3272)
+* [Workflow - GitHub](./004-writing-workflow.md)
+* [My (Current) Publishing Workflow - Gdoc ](https://docs.google.com/document/d/1ZD4PGwJZzWoqW0op21N04Md8dOVg73QJX393qK-3acs/edit)
+
+Pages: 1
+Words: 154
+Characters: 927
+Characters excluding spaces: 794
+
 
 
 
