@@ -9,7 +9,7 @@
 [My Medium Profile](https://medium.com/@janzeteachesit)
 [My Learning Diary](https://janzeteachesit.github.io/Learning-Diary/)
 
-### January 6, 2016 Friday
+### January 6, 2017 Friday
 
 #### / 100
 
@@ -33,7 +33,26 @@
 
 ---
 
-### January 22, 2016 Sunday
+### January 23, 2017 Monday
+
+#### / 100
+
+**Today's Progress**: Started 4 different pieces of writing - a lot of it work-related, but still all with "stretch".  
+
+**Thoughts**: 
+All are initial - read "still in posts".  Have to pick which one first.
+
+**Supporting Research**:
+
+**Link(s) to work**
+* [005-letter-to-parents.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/005-letter-to-parents.md)
+* [006-characteristics-stem-student.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/006-characteristics-stem-student.md)
+* [007-STEM-mapping-disease.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/007-STEM-mapping-disease.md)
+* [008-inquiry-first meeting.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/008-inquiry-first%20meeting.md)
+
+---
+
+### January 22, 2017 Sunday
 
 #### 4 / 100
 
@@ -59,7 +78,7 @@
 
 ---
 
-### January 15, 2016 Sunday
+### January 15, 2017 Sunday
 
 #### 4 / 100
 
@@ -85,20 +104,20 @@
 
 ---
 
-### January 13, 2016 Friday
+### January 13, 2017 Friday
 
 **Supporting Research**:
 * [Deeper Learning - Wikipedia](https://www.wikiwand.com/en/Deeper_learning)
 
 ---
 
-### January 12, 2016 Thursday
+### January 12, 2017 Thursday
 
 **Thoughts**: STEM Inquriy
 
 ---
 
-### January 9, 2016 Monday
+### January 9, 2017 Monday
 
 #### 3 / 100
 
@@ -109,7 +128,7 @@
 
 ---
 
-### January 8, 2016 Sunday
+### January 8, 2017 Sunday
 
 #### 2 / 100
 
@@ -129,7 +148,7 @@
 
 ---
 
-### January 7, 2016 Saturday
+### January 7, 2017 Saturday
 
 **Today's Progress**: Started STEM 8 Math GitBook
 
@@ -137,7 +156,7 @@
 
 ---
 
-### January 6, 2016 Friday
+### January 6, 2017 Friday
 
 #### 1 / 100
 
