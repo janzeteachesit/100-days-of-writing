@@ -2,8 +2,8 @@ Hello All,
 I've set up a doodle poll for us to select a month/day in which to meet, if that makes sense and we can go from there:
 http://doodle.com/poll/643kesbne59sh2wt
 
-•	Choose our first meeting day; Poll to follow.
-•	Clarify HOW to get Inquiry EOC release time;  Documentation to follow.
+* Choose our first meeting day; Poll to follow.
+* Clarify HOW to get Inquiry EOC release time; see below.
 
 We have release time for 2 whole days each.  The structure I suggest is:
 
