@@ -9,15 +9,13 @@
 
 I apologize for taking so long to respond.  Your questions happen to be part of a much larger conversation occuring at Templeton, and within the VSB as an organization. As you may know, the Ministry of Education is in the midst of redesigning curriculum for all grades.  What is less common knowledge is that assessment practices are also part of the redesign.  I am part of an Inquriy team looking at how that is going to work at Templeton.  I have drafted a much longer response to your questions, but I realize I need to give some quick answers right now, so: 
 
-A. No percentages, as we are moving away from a focus on numbers. (More info to follow)
-B. The grades are based on a draft Rubric that we are developing (please see [this link](https://docs.google.com/document/d/1NYEAa5lHLYWlUNY_FtvWJ2KgOj1pc9ZGbAAyO9G9etw/edit?usp=sharing); more to follow)
-C. We have talked and already agreed that using computer-based learning activities are not am effective way for him to show evidence of his learning; we have started to make changes/provide new and alternative activities - (MathPower text, for example; more to follow).
+1. No percentages, as we are moving away from a focus on numbers. (More info to follow)
+2. The grades are based on a draft Rubric that we are developing (please see [this link](https://docs.google.com/document/d/1NYEAa5lHLYWlUNY_FtvWJ2KgOj1pc9ZGbAAyO9G9etw/edit?usp=sharing); more to follow)
+3. We have talked and already agreed that using computer-based learning activities are not am effective way for him to show evidence of his learning; we have started to make changes/provide new and alternative activities - (MathPower text, for example; more to follow).
 
 
 ### [Intent of the District Inquiry Project:](http://go.vsb.bc.ca/schools/ltm/Pages/default.aspx)
 An opportunity for school teams to work together at the school level to explore a variety of methods for documenting knowledge, skills and attitudes (and helping our students to document their learning), and then to come together at the District level to discuss the myriad of opportunities and possibilities around Communicating Student Learning.
-
-
 
 ### [BC Min Ed - Rationale](http://www2.gov.bc.ca/gov/content/education-training/administration/legislation-policy/public-schools/student-reporting)
 
