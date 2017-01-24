@@ -46,10 +46,10 @@ All are initial - read "still in posts".  Have to pick which one first.
 
 **Details**
 
-* Pages:
-* Words:
-* Characters:	
-* Characters excluding spaces:
+* Pages: 1
+* Words: 154
+* Characters:	927
+* Characters excluding spaces: 794
 
 ---
 
