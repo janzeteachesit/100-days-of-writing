@@ -8,7 +8,7 @@
 
 [My Medium Profile](https://medium.com/@janzeteachesit) | 
 [My Learning Diary](https://janzeteachesit.github.io/Learning-Diary/) | 
-[Log Template](https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/log-template.md)
+[Log Template](https://github.com/janzeteachesit/100-days-of-writing/raw/master/docs/log-template.md)
 
 ---
 
