@@ -14,12 +14,10 @@
 
 ### January 23, 2017 Monday
 
-**Today's Progress**: Started 4 different pieces of writing - a lot of it work-related, but still all with "stretch".  
+**Today's Progress**: Started 4 different pieces of writing - a lot of it work-related, but still all with "stretch".  Finished [My /(Current/) Publishing Workflow - Medium](https://medium.com/@janzeteachesit/my-current-publishing-workflow-a043e9cd3272).  See yesterday.
 
 **Thoughts**: 
 All are initial - read "still in posts".  Have to pick which one first.
-
-**Supporting Research**:
 
 **Link(s) to work**
 * [005-letter-to-parents.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/posts/005-letter-to-parents.md)
@@ -33,7 +31,7 @@ All are initial - read "still in posts".  Have to pick which one first.
 
 #### 4 / 100
 
-**Today's Progress**: started .md file; spent a lot of time setting up gh-pages and updating existing posts/writing/... to work on gh-pages.  [Medium WIP](https://medium.com/@janzeteachesit/workflow-a043e9cd3272)
+**Today's Progress**: started .md file; spent a lot of time setting up gh-pages and updating existing posts/writing/... to work on gh-pages.  <s>[Medium WIP](https://medium.com/@janzeteachesit/workflow-a043e9cd3272)</s>
 
 **Thoughts**: Diary entry; outline my process; connect to learning diary;
 
@@ -42,9 +40,9 @@ All are initial - read "still in posts".  Have to pick which one first.
 * [My Learning Diary - gh-pages](https://janzeteachesit.github.io/Learning-Diary/)
 
 **Link(s) to work**
-* [medium]()
+* [My /(Current/) Publishing Workflow - Medium](https://medium.com/@janzeteachesit/my-current-publishing-workflow-a043e9cd3272)
 * [Workflow - GitHub](./004-writing-workflow.md)
-* [Workflow - Gdoc ](https://docs.google.com/document/d/1ZD4PGwJZzWoqW0op21N04Md8dOVg73QJX393qK-3acs/edit)
+* [My /(Current/) Publishing Workflow - Gdoc ](https://docs.google.com/document/d/1ZD4PGwJZzWoqW0op21N04Md8dOVg73QJX393qK-3acs/edit)
 
 **Details**
 
