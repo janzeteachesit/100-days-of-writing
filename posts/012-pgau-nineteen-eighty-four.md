@@ -7,6 +7,7 @@
 * https://ebooks.adelaide.edu.au/t/trotsky/leon/revolution_betrayed/
 * https://www.wikiwand.com/en/The_Theory_and_Practice_of_Oligarchical_Collectivism
 * http://bigthink.com/strange-maps/66-the-world-in-george-orwells-1984
+* https://archive.org/details/25434646
 
 
 Title: Nineteen eighty-four
