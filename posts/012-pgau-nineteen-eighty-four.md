@@ -4,6 +4,10 @@
 * https://ebooks.adelaide.edu.au/o/orwell/george/o79n/
 * http://www.george-orwell.org/1984/0.html
 * https://archive.org/details/George-Orwell-1984-Audio-book
+* https://ebooks.adelaide.edu.au/t/trotsky/leon/revolution_betrayed/
+* https://www.wikiwand.com/en/The_Theory_and_Practice_of_Oligarchical_Collectivism
+* http://bigthink.com/strange-maps/66-the-world-in-george-orwells-1984
+
 
 Title: Nineteen eighty-four
 Author: George Orwell (pseudonym of Eric Blair) (1903-1950)
