@@ -1,9 +1,9 @@
 #Project Gutenberg of Australia Nineteen eighty-four
 
-http://gutenberg.net.au/ebooks01/0100021.txt
-https://ebooks.adelaide.edu.au/o/orwell/george/o79n/
-http://www.george-orwell.org/1984/0.html
-
+* http://gutenberg.net.au/ebooks01/0100021.txt
+* https://ebooks.adelaide.edu.au/o/orwell/george/o79n/
+* http://www.george-orwell.org/1984/0.html
+* https://archive.org/details/George-Orwell-1984-Audio-book
 
 Title: Nineteen eighty-four
 Author: George Orwell (pseudonym of Eric Blair) (1903-1950)
