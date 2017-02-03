@@ -1,12 +1,12 @@
 # BRAVE NEW WORLD 
 
-http://www.idph.com.br/conteudos/ebooks/BraveNewWorld.pdf
-https://www.huxley.net/
-https://www.huxley.net/bnw/one.html
-https://archive.org/stream/ost-english-brave_new_world_aldous_huxley/Brave_New_World_Aldous_Huxley_djvu.txt
-https://archive.org/details/ost-english-brave_new_world_aldous_huxley
-https://archive.org/details/CbsRadioWorkshop-BraveNewWorldjohnr2443
-http://www.openculture.com/2011/06/huxleyreadsbravenewworld.html
+* http://www.idph.com.br/conteudos/ebooks/BraveNewWorld.pdf
+* https://www.huxley.net/
+* https://www.huxley.net/bnw/one.html
+* https://archive.org/stream/ost-english-brave_new_world_aldous_huxley/Brave_New_World_Aldous_Huxley_djvu.txt
+* https://archive.org/details/ost-english-brave_new_world_aldous_huxley
+* https://archive.org/details/CbsRadioWorkshop-BraveNewWorldjohnr2443
+* http://www.openculture.com/2011/06/huxleyreadsbravenewworld.html
 
 
 BRAVE NEW WORLD 
