@@ -32,6 +32,8 @@ Each teacher would be able to test a complete set of lesson plans and student ha
 Project-based
 Digital and Unplugged
 
+## CT-PDP
+[Introducing Computational Thinking - GfE](https://computationalthinkingcourse.withgoogle.com/course)
 ## CT-Unplugged
 
 ### Exploring Computational Thinking (ECT) - Google for Education
