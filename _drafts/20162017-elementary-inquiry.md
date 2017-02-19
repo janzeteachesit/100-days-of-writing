@@ -37,6 +37,7 @@ Digital and Unplugged
 
 ## CT-Plugged
 - [Swift Playgrounds A new way to learn to code with Swift on iPad - iOS 10](https://developer.apple.com/swift/playgrounds/)
+- [Betty's Brain](http://www.teachableagents.org/research/bettysbrain.php)
 ## CT-Unplugged
 
 ### Exploring Computational Thinking (ECT) - Google for Education
@@ -111,5 +112,12 @@ abstraction in their everyday life.
           - Popsicle sticks
           - Pipe cleaners 
 
+## DM - Unplugged
+
+- [Letting Math Teachers Steer: Keeping Grounded with the Empirical Trajectories](http://blog.everydaycomputing.org/2016/08/26/letting-math-teachers-steer/)![](https://github.com/everydaycomputing/everydaycomputing.github.io/raw/master/public/images//blog/BlogPost6-Image1.jpg)
+- [Learning Trajectories in Math - pdf](http://www.cpre.org/sites/default/files/researchreport/1220_learningtrajectoriesinmathcciireport.pdf)
+
+## DM - Plugged
+### - Scratch
 
 
