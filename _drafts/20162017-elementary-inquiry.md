@@ -9,10 +9,10 @@ As you know, the BC Government mandates that students must “experience a minim
 
 I am offering to share 3 teachable modules addressing the new ADST curriculum, specifically:
 - [Computational Thinking](https://curriculum.gov.bc.ca/curriculum/adst/7)
-  - simple algorithms that reflect computational thinking
-  - visual representations of problems and data
-  - evolution of programming languages
-  - visual programming
+  - simple algorithms that reflect computational thinking;  for sorting, searching, sequence, selection, and repetition; specific statements to complete a simple task; cryptography and code breaking (e.g., cyphers) 
+  - visual representations of problems and data;  graphs, charts, network diagrams, info graphics, flow charts, lists, tables, or arrays 
+  - evolution of programming languages; historical perspectives, evolution (e.g., Ada Lovelace, punch cards, Hollerith, Grace Hopper, Alan Turing, Enigma, cyphers) 
+  - visual programming;  for example, Kodu, Scratch 
 - [Computers and Communications Devices](https://curriculum.gov.bc.ca/curriculum/adst/7)
   - computer system architecture, including hardware and software, network infrastructure (local), intranet/Internet, and personal communication devices
   - strategies for identifying and troubleshooting simple hardware and software problems
@@ -21,8 +21,8 @@ I am offering to share 3 teachable modules addressing the new ADST curriculum, s
   - effective and efficient keyboarding techniques
 
 - [Media Arts](https://curriculum.gov.bc.ca/curriculum/adst/7)  
-  - digital and non-digital media, and their distinguishing characteristics and uses
-  - techniques for using images, sounds, and text to communicate information, settings, ideas, and story structure
+  - digital and non-digital media, and their distinguishing characteristics and uses; for example, video production, layout and design, graphics and images, photography (digital and traditional), emerging media processes (performance art, collaborative work, sound art, network art) 
+  - techniques for using images, sounds, and text to communicate information, settings, ideas, and story structure; for example, crop, print, record/capture, sequence 
   - media technologies and techniques to capture, edit, and manipulate images, sounds, and text for specific purposes
   - influences of digital media for the purpose of communication and self-expression
 
