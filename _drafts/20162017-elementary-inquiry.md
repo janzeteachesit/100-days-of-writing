@@ -3,18 +3,13 @@
 - janzeteachesit/Learning-Diary#16 ELEM Inquiry
 - [20162017ElementarySTEMADSTCoding - GDoc](https://docs.google.com/document/d/1M6DjJsZZdQIa-MNnbxhR6-xQoUEqmnFQwinKClefbkM/edit)
 
-> How does a project-based STEM learning environment increase authentic student engagement in Elementary Math, Science and the new Design and Coding curriculum?
+> Inquiry Question: How does a project-based STEM learning environment increase authentic student engagement in Elementary Math, Science and the new Design and Coding curriculum?
 
 As you know, the BC Government mandates that students must “experience a minimum of three modules of [Applied Design, Skills, and Technologies](https://curriculum.gov.bc.ca/curriculum/applied-design-skills-and-technologies/introduction) ADST in each of Grades 6 and 7”.
 
+Each teacher would be able to test a complete set of lesson plans and student handouts for each Project-based module, for both "Digital" (device-based) and “Unplugged” (paper-based) activities.
+
 I am offering to share 3 teachable modules addressing the new ADST curriculum, specifically:
-
-
-
-Each teacher would be able to test a complete set of lesson plans and student handouts for each module, for both "Digital" (device-based) and “Unplugged” (paper-based) activities.
-
-Project-based
-Digital and Unplugged
 
 # [Computational Thinking (CT)](https://curriculum.gov.bc.ca/curriculum/adst/7)
   - simple algorithms that reflect computational thinking;  for sorting, searching, sequence, selection, and repetition; specific statements to complete a simple task; cryptography and code breaking (e.g., cyphers) 
