@@ -32,11 +32,13 @@ Each teacher would be able to test a complete set of lesson plans and student ha
 Project-based
 Digital and Unplugged
 
-### CT-Unplugged
+## CT-Unplugged
+### Exploring Computational Thinking (ECT) - Google for Education
 - [Exploring Computational Thinking ECT - Google for Education](https://edu.google.com/resources/programs/exploring-computational-thinking/#!ct-materials)
 - [ECT Lesson Plan: Ciphering a Sentence](https://docs.google.com/document/d/1dpchPvzB8vluEclPjruijeWPOQnNu9jxFKabXhzqKL8/edit)
 - [ECT Lesson Plan: Algorithmic Thinking](https://docs.google.com/document/d/1DEtX0JFuajlqeYOPQEilwS3SIeXNsKyImhsDsWt3jl4/edit#heading=h.ah3tmrck5xha)
 - [ECT Lesson Plan: Pattern Machine](https://docs.google.com/document/d/1R0NLkGx8rtPMIaPmSJa-L50aPXEbhu2nLWRz241FTr8/edit#heading=h.ah3tmrck5xha)
+### Code.org Unplugged
 - [CT - code.org Unplugged Monster Cataolog pdf](https://studio.code.org/unplugged/unplug2.pdf)
   - [site:https://studio.code.org/unplugged - GSearch](https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=site:https://studio.code.org/unplugged/)
   - [CS Fundamentals Unplugged](https://code.org/curriculum/unplugged)
