@@ -138,6 +138,50 @@ abstraction in their everyday life.
 - [How the Internet Works (activity for elementary/middle school)](http://cse4k12.blogspot.ca/2009/12/how-internet-works-activity-for.html)
 
 
+# Core Competencies
+
+# ADST Big Ideas
+- Design can be responsive to identified needs.
+- Complex tasks require the acquisition of additional skills.
+- Complex tasks may require multiple tools and technologies.
+
+# ADST Curricular Competencies
+- Understanding context
+  - Empathize with potential users to find issues and uncover needs and potential design opportunities
+- Defining
+  - Choose a design opportunity
+  - Identify key features or potential users and their requirements
+  - Identify criteria for success and any constraints
+- Ideating
+  - Generate potential ideas and add to others’ ideas
+  - Screen ideas against criteria and constraints
+  - Evaluate personal, social, and environmental impacts and ethical considerations
+  - Choose an idea to pursue
+- UPrototyping
+  - Identify and use sources of information
+  - Develop a plan that identifies key stages and resources
+  - Explore and test a variety of materials for effective use
+  - Construct a first version of the product or a prototype, as appropriate, making changes to tools, materials, and procedures as needed
+  - Record iterations of prototyping
+- UTesting
+  - Test the first version of the product or the prototype
+  - Gather peer and/or user and/or expert feedback and inspiration
+  - Make changes, troubleshoot, and test again
+- Making
+  - Identify and use appropriate tools, technologies, and materials for production
+  - Make a plan for production that includes key stages, and carry it out, making changes as needed
+  - Use materials in ways that minimize waste
+- Sharing
+  - Decide on how and with whom to share their product
+  - Demonstrate their product and describe their process, using appropriate terminology and providing reasons for their selected solution and modifications
+  - Evaluate their product against their criteria and explain how it contributes to the individual, family, community, and/or environment 
+  - Reflect on their design thinking and processes, and evaluate their ability to work effectively both as individuals and collaboratively in a group, including their ability to share and maintain an efficient co-operative work space
+  - Identify new design issues
+
+
+
+
+
 
 
 
