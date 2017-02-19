@@ -9,13 +9,6 @@ As you know, the BC Government mandates that students must “experience a minim
 
 I am offering to share 3 teachable modules addressing the new ADST curriculum, specifically:
 
-- [Computers and Communications Devices](https://curriculum.gov.bc.ca/curriculum/adst/7)
-  - computer system architecture, including hardware and software, network infrastructure (local), intranet/Internet, and personal communication devices
-  - strategies for identifying and troubleshooting simple hardware and software problems
-  - function of input and output devices, including 3D printing and adaptive technologies for those with special needs
-  - ergonomics in use of computers and computing devices
-  - effective and efficient keyboarding techniques
-
 
 
 Each teacher would be able to test a complete set of lesson plans and student handouts for each module, for both "Digital" (device-based) and “Unplugged” (paper-based) activities.
@@ -34,6 +27,7 @@ Digital and Unplugged
 ## CT-Plugged
 - [Swift Playgrounds A new way to learn to code with Swift on iPad - iOS 10](https://developer.apple.com/swift/playgrounds/)
 - [Betty's Brain](http://www.teachableagents.org/research/bettysbrain.php)
+
 ## CT-Unplugged
 ### [CS Unplugged](http://csunplugged.org/activities/)
  - [Harold the Robot](http://csunplugged.org/harold-the-robot-2/) - In this activity children simply give directions to a “robot” (either an adult or another child) and find out which instructions the robot is able to follow, and how their instructions are taken literally.
@@ -121,6 +115,8 @@ abstraction in their everyday life.
   - media technologies and techniques to capture, edit, and manipulate images, sounds, and text for specific purposes
   - influences of digital media for the purpose of communication and self-expression
 
+## DM - PDP
+
 ## DM - Unplugged
 
 - [Letting Math Teachers Steer: Keeping Grounded with the Empirical Trajectories](http://blog.everydaycomputing.org/2016/08/26/letting-math-teachers-steer/)![](https://github.com/everydaycomputing/everydaycomputing.github.io/raw/master/public/images//blog/BlogPost6-Image1.jpg)
@@ -131,6 +127,21 @@ abstraction in their everyday life.
 ### - Scratch
 
 ### - [CS Discoveries - code.org](https://curriculum.code.org/csd/resources/)
+
+# [Computers and Communications Devices (CCD)](https://curriculum.gov.bc.ca/curriculum/adst/7)
+  - computer system architecture, including hardware and software, network infrastructure (local), intranet/Internet, and personal communication devices
+  - strategies for identifying and troubleshooting simple hardware and software problems
+  - function of input and output devices, including 3D printing and adaptive technologies for those with special needs
+  - ergonomics in use of computers and computing devices
+  - effective and efficient keyboarding techniques
+  
+  ## CCD PDP
+  
+  ## CCD Plugged
+  
+  ## CCD Unplugged
+
+
 
 
 
