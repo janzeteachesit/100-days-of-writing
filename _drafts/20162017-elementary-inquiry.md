@@ -36,8 +36,8 @@ Digital and Unplugged
 - [CT - code.org Unplugged Monster Cataolog pdf](https://studio.code.org/unplugged/unplug2.pdf)
   - [site:https://studio.code.org/unplugged - GSearch](https://www.google.ca/webhp?sourceid=chrome-instant&rlz=1C1CHBF_enCA700CA700&ion=1&espv=2&ie=UTF-8#q=site:https://studio.code.org/unplugged/)
   - [CS Fundamentals Unplugged](https://code.org/curriculum/unplugged)
-  - [CS Fundamentals for Courses 1 - 4](https://code.org/curriculum/docs/k-5/complete_compressed.pdf)
-  - [Code Studio Lesson Keys for Courses 1 - 4](https://code.org/curriculum/docs/k-5/teacherKeyComplete.pdf)
+  - [CS Fundamentals for Courses 1 - 4 pdf](https://code.org/curriculum/docs/k-5/complete_compressed.pdf)
+  - [Code Studio Lesson Keys for Courses 1 - 4 pdf](https://code.org/curriculum/docs/k-5/teacherKeyComplete.pdf)
   - https://studio.code.org/unplugged/unplug1.pdf | unplug1.pdf Intro to the Art of Computer Science; Main Goal: Give the class a clear understanding of what computer science is and how it could be helpful in their lives.
       - Binary Decoder Key
       - Graph paper or Binary Strips
