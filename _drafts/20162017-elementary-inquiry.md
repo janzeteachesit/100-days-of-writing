@@ -34,6 +34,9 @@ Digital and Unplugged
 
 ## CT-PDP
 [Introducing Computational Thinking - GfE](https://computationalthinkingcourse.withgoogle.com/course)
+
+## CT-Plugged
+- [Swift Playgrounds A new way to learn to code with Swift on iPad - iOS 10](https://developer.apple.com/swift/playgrounds/)
 ## CT-Unplugged
 
 ### Exploring Computational Thinking (ECT) - Google for Education
