@@ -139,7 +139,12 @@ abstraction in their everyday life.
 
 
 # Core Competencies
-- [CC Doc3 Tree Diagram](https://vsbworld-my.sharepoint.com/personal/cjanze_vsb_bc_ca/_layouts/15/guestaccess.aspx?docid=03bdcdb1a924c44c28825345c4029a3e4&authkey=AZmOHQpU6ElEexzAZ6W8Adk)
+- [CC Doc3 Tree Diagram - O365](https://vsbworld-my.sharepoint.com/personal/cjanze_vsb_bc_ca/_layouts/15/guestaccess.aspx?docid=03bdcdb1a924c44c28825345c4029a3e4&authkey=AZmOHQpU6ElEexzAZ6W8Adk)
+- [Communicating Student Learning Resources - O365](https://vsbworld-my.sharepoint.com/personal/cjanze_vsb_bc_ca/_layouts/15/guestaccess.aspx?docid=089cfdeaded554c8c97e934dc009fc59e&authkey=AUTjS2JQaBXDptFdyZOBri4)
+- [Communication Competency Rubric - O365](https://vsbworld-my.sharepoint.com/personal/cjanze_vsb_bc_ca/_layouts/15/guestaccess.aspx?docid=03a2662b67acc4c36adab3899074da4a1&authkey=AZOwiGY2iVEJL0ha9pDcRg8)
+- [Critical Thinking Competency Rubric ](https://vsbworld-my.sharepoint.com/personal/cjanze_vsb_bc_ca/_layouts/15/guestaccess.aspx?docid=0b52d6b9ca33340e9bf22f69de980d38e&authkey=ARgPRWbzzP-5YkCEniiBYew)
+
+
 # ADST Big Ideas
 - Design can be responsive to identified needs.
 - Complex tasks require the acquisition of additional skills.
