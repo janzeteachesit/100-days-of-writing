@@ -29,3 +29,8 @@ I am offering to share 3 teachable modules addressing the new ADST curriculum, s
 
 Each teacher would be able to test a complete set of lesson plans and student handouts for each module, for both "Digital" (device-based) and “Unplugged” (paper-based) activities.
 
+Project-based
+Digital and Unplugged
+
+
+
