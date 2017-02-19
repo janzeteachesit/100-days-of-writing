@@ -139,7 +139,7 @@ abstraction in their everyday life.
 
 
 # Core Competencies
-
+- [CC Doc3 Tree Diagram](https://vsbworld-my.sharepoint.com/personal/cjanze_vsb_bc_ca/_layouts/15/guestaccess.aspx?docid=03bdcdb1a924c44c28825345c4029a3e4&authkey=AZmOHQpU6ElEexzAZ6W8Adk)
 # ADST Big Ideas
 - Design can be responsive to identified needs.
 - Complex tasks require the acquisition of additional skills.
@@ -148,22 +148,28 @@ abstraction in their everyday life.
 # ADST Curricular Competencies
 - Understanding context
   - Empathize with potential users to find issues and uncover needs and potential design opportunities
+    - share the feelings and understand the needs of others to inform design 
+    - may include self, peers, younger children, family or community members, customers, plants, or animals 
 - Defining
   - Choose a design opportunity
   - Identify key features or potential users and their requirements
   - Identify criteria for success and any constraints
+    - limiting factors such as task or user requirements, materials, expense, environmental impact, issues of appropriation, and knowledge that is considered sacred
 - Ideating
   - Generate potential ideas and add to others’ ideas
   - Screen ideas against criteria and constraints
   - Evaluate personal, social, and environmental impacts and ethical considerations
   - Choose an idea to pursue
-- UPrototyping
+- Prototyping
   - Identify and use sources of information
   - Develop a plan that identifies key stages and resources
   - Explore and test a variety of materials for effective use
   - Construct a first version of the product or a prototype, as appropriate, making changes to tools, materials, and procedures as needed
   - Record iterations of prototyping
-- UTesting
+    - including seeking knowledge from other people as experts (e.g., First Peoples Elders), secondary sources, and collective pools of knowledge in communities and collaborative atmospheres 
+    - for example, a physical product, a process, a system, a service, or a designed environment 
+    - repetitions of a process with the aim of approaching a desired result 
+- Testing
   - Test the first version of the product or the prototype
   - Gather peer and/or user and/or expert feedback and inspiration
   - Make changes, troubleshoot, and test again
@@ -171,13 +177,19 @@ abstraction in their everyday life.
   - Identify and use appropriate tools, technologies, and materials for production
   - Make a plan for production that includes key stages, and carry it out, making changes as needed
   - Use materials in ways that minimize waste
+    - things that extend human capabilities  
 - Sharing
   - Decide on how and with whom to share their product
   - Demonstrate their product and describe their process, using appropriate terminology and providing reasons for their selected solution and modifications
   - Evaluate their product against their criteria and explain how it contributes to the individual, family, community, and/or environment 
   - Reflect on their design thinking and processes, and evaluate their ability to work effectively both as individuals and collaboratively in a group, including their ability to share and maintain an efficient co-operative work space
   - Identify new design issues
-
+    - may include showing to others, use by others, giving away, or marketing and selling 
+- Demonstrate an awareness of precautionary and emergency safety procedures in both physical and digital environments
+- Identify and evaluate the skills and skill levels needed, individually or as a group, in relation to a specific task, and develop them as needed
+- Select, and as needed learn about, appropriate tools and technologies to extend their capability to complete a task
+- Identify the personal, social, and environmental impacts, including unintended negative consequences, of the choices they make about technology use
+- Identify how the land, natural resources, and culture influence the development and use of tools and technologies
 
 
 
