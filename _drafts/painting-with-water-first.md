@@ -32,3 +32,7 @@
 
 > ![rogramming Board](https://cdn-images-1.medium.com/max/800/1*vbmlohAA0-f7TGUji2ZRQw.jpeg)
 
+> Breaking down the basic concepts behind how computers work into physical representations exposes the black box nature of computers. Children may not entirely grasp the connection between computer science and what they’re doing, but they are forming a strong foundation that will put them ahead and prepare them for continued learning.
+
+
+
