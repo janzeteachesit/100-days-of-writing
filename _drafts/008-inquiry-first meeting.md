@@ -19,4 +19,6 @@ I am open to any changes, though.
 
 https://docs.google.com/document/d/1uclTWUC1S9M6xnGgtgf5V7if1e7Qppz699ZivNwlHA8/edit?usp=sharing
 
+[#16](https://github.com/janzeteachesit/Learning-Diary/issues/16)
+
 
