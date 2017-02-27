@@ -16,9 +16,7 @@ Meeting | Length | Purpose
 I am open to any changes, though.
 
 * Professional Resource Funding support – each school applying will receive between $200-400 per site, depending on size, for resources in support of the inquiry. 
-
-https://docs.google.com/document/d/1uclTWUC1S9M6xnGgtgf5V7if1e7Qppz699ZivNwlHA8/edit?usp=sharing
-
-[#16](https://github.com/janzeteachesit/Learning-Diary/issues/16)
+- [Elementary STEM Inquiry Group Session 1 Agenda 20160107 - GDoc](https://docs.google.com/document/d/1uclTWUC1S9M6xnGgtgf5V7if1e7Qppz699ZivNwlHA8/edit?usp=sharing)
+- [#16](https://github.com/janzeteachesit/Learning-Diary/issues/16)
 
 
