@@ -1,5 +1,5 @@
 - [painting-with-water-first.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/_drafts/painting-with-water-first.md)
-- [#184](https://github.com/janzeteachesit/Learning-Diary/issues/184) 
+- [#184 Article: Paint with only water first](https://github.com/janzeteachesit/Learning-Diary/issues/184) 
 - [Paint with only water first - Medium](https://medium.com/mit-media-lab/paint-with-only-water-first-2d5b7613eb7a#.xf8duhdol)
 - [Paint with only water first - MIT MediaLab Learning](https://www.media.mit.edu/posts/paint-with-only-water-first/)
 - GRIST4, github_issue
