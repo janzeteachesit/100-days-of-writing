@@ -13,10 +13,22 @@
 > “Paint with only water first.”
 
 >  scaffold by isolating the most basic steps that comprise a more complex skill.
+
 > work that is not about creating the masterpiece, but rather creating the person capable of making the masterpiece.
+
 > I define computational thinking as the thought processes essential to breaking down problems and representing information that form the foundational ideas for how we use computers.
+
 > ... In my vision, the child programs the computer ... (Seymour Papert, Mindstorms, p. 5) 
+
 > The Montessori classroom emphasizes a child-driven approach — one in which learners work independently and take responsibility for what and how they learn. The materials are hands-on, sequential, and align with children’s developmental stages. 
+
 > The result is a series of [learning materials](https://www.media.mit.edu/projects/new-learning-materials-for-computational-thinking/overview/) made with natural materials, without any technology, to demonstrate such concepts as binary counting, image representation, algorithms, data structures, Boolean logic, sorting, and patterns.
-> There are other materials in this series. The Pixel Boards consist of tile mosaics on cork boards, and enable children to explore how images are constructed through numerical codes, and how tiles represent pixels — the more pixels you have, the more detailed your image will be. ![Pixel Boards](https://cdn-images-1.medium.com/max/800/1*F94wmtLiK-Qwjqi_ckfuTA.jpeg)
+
+> There are other materials in this series. The Pixel Boards consist of tile mosaics on cork boards, and enable children to explore how images are constructed through numerical codes, and how tiles represent pixels — the more pixels you have, the more detailed your image will be. 
+
+> ![Pixel Boards](https://cdn-images-1.medium.com/max/800/1*F94wmtLiK-Qwjqi_ckfuTA.jpeg)
+
 > The Programming Board uses physical blocks to create simple lines of code to create drawings.
+
+> ![rogramming Board](https://cdn-images-1.medium.com/max/800/1*vbmlohAA0-f7TGUji2ZRQw.jpeg)
+
