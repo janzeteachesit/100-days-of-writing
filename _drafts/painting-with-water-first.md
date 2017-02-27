@@ -7,8 +7,11 @@
 - Date: February 25, 2017 at 11:15PM
 
 > How do you create the limits necessary in order to yield the greatest freedom of expression?
+
 > the result was a pile of muddy paint, most of which was all over the table, floor, and their clothes; all the colors smeared into horrible brown blobs as I frantically tried to reign in the chaos I had created.
+
 > “Paint with only water first.”
+
 >  scaffold by isolating the most basic steps that comprise a more complex skill.
 > work that is not about creating the masterpiece, but rather creating the person capable of making the masterpiece.
 > I define computational thinking as the thought processes essential to breaking down problems and representing information that form the foundational ideas for how we use computers.
