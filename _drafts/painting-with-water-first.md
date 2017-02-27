@@ -1,8 +1,7 @@
 painting-with-water-first.md
-[#184](https://github.com/janzeteachesit/Learning-Diary/issues/184) janzeteachesit/Learning-Diary#184
-[Paint with only water first - Medium](https://medium.com/mit-media-lab/paint-with-only-water-first-2d5b7613eb7a#.xf8duhdol)
-
-[Paint with only water first - MIT MediaLab Learning](https://www.media.mit.edu/posts/paint-with-only-water-first/)
+- [#184](https://github.com/janzeteachesit/Learning-Diary/issues/184) 
+- [Paint with only water first - Medium](https://medium.com/mit-media-lab/paint-with-only-water-first-2d5b7613eb7a#.xf8duhdol)
+- [Paint with only water first - MIT MediaLab Learning](https://www.media.mit.edu/posts/paint-with-only-water-first/)
 - GRIST4, github_issue
 - Label: github
 - Date: February 25, 2017 at 11:15PM
