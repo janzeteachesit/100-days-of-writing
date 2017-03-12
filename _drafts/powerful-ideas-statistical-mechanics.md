@@ -9,10 +9,10 @@
   4. Repeat these steps until the game ends.
 - The children vary the game by changing the initial conditions (how many children are in the row and how many pennies does each child have at the start of the game) and the boundary conditions (what happens at the ends of the row).
 - [Penny Simulation: Diffusion - CodPen](http://codepen.io/davidng/pen/QdeGjW)
-
-> We model the system’s randomness using coin flips (statistical mechanics) and model particle motion as steps between discrete points (finite element analysis) along a single dimension.
+- We model the system’s randomness using coin flips (statistical mechanics) and model particle motion as steps between discrete points (finite element analysis) along a single dimension.
 
 >  Is this “teaching” or providing the conditions for learning? Is there a powerful idea and is the full power of that idea in a form a child can engage with, reason and have intuitions about, and work on?
+
 > It’s incomprehensible to me that we can expect students to study and attempt to make sense of science for years without understanding and applying this organizing idea.
 
 > But what if the only reason why it took generations for us to arrive at the atomic hypothesis is because we grow up in a landscape where atoms are in our blind spot? We don’t see or experience them directly, so it takes a series of insights before we can even begin to think in those terms. What would happen if we grew up in a world where atoms were as real to us as trees or rocks—and we could think about and relate to them through our own every day experiences? That is the question Seymour Papert poses in Mindstorms.
