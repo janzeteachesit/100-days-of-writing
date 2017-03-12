@@ -13,6 +13,7 @@
 >  2. Pass the pennies that come up heads to the person on your right and the pennies that come up tails to the person on your left.
 >  3. In return, collect and count the pennies passed to you by your neighbors. 
 >  4. Repeat these steps until the game ends.
+
 > The children vary the game by changing the initial conditions (how many children are in the row and how many pennies does each child have at the start of the game) and the boundary conditions (what happens at the ends of the row).
 > [Penny Simulation: Diffusion - CodPen](http://codepen.io/davidng/pen/QdeGjW)
 > We model the system’s randomness using coin flips (statistical mechanics) and model particle motion as steps between discrete points (finite element analysis) along a single dimension.
