@@ -20,8 +20,9 @@ __*establish*__ relationship early in the piece, __*sustain*__ it through consis
 * EST Item
 * EST Item
 
-* [Where Seymour Papert Got It Wrong](https://medium.com/vertical-learning/where-seymour-papert-got-it-wrong-6203f94149d1)
-* [David Ng](https://medium.com/@dng_16133)
+## [Where Seymour Papert Got It Wrong](https://medium.com/vertical-learning/where-seymour-papert-got-it-wrong-6203f94149d1)
+### And where we continue to misunderstand him
+#### [David Ng](https://medium.com/@dng_16133)
 
 > The first thesis is there’s no such thing as easy or hard subjects, only domains with abundant materials or sparse materials.
 
