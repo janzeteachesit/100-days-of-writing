@@ -43,4 +43,9 @@
 > What kind of culture of powerful ideas must we create?
  
 
-References [The Seeds That Seymour Sowed - By Mitchel Resnick - Medium](https://medium.com/mit-media-lab/the-seeds-that-seymour-sowed-4c50333f03fc)
+References:
+- [The Seeds That Seymour Sowed - By Mitchel Resnick - Medium](https://medium.com/mit-media-lab/the-seeds-that-seymour-sowed-4c50333f03fc)
+- [Alan Kay: A powerful idea about ideas](http://www.ted.com/talks/alan_kay_shares_a_powerful_idea_about_ideas/transcript?language=en)
+- [Squeakland EToys](http://www.squeakland.org/)
+- [Alan Kay on Hoping That “Simple” is not “Too Simple”](https://computinged.wordpress.com/2010/04/23/alan-kay-on-hoping-that-simple-is-not-too-simple/)
+
