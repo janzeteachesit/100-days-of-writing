@@ -2,6 +2,16 @@
 
 - [Powerful Ideas and Statistical Mechanics and it is a Game too - GitHub Issue #24](https://github.com/janzeteachesit/100-days-of-writing/issues/240)
 
+- children play a game with pennies. Sitting in a row, they flip, pass, and count pennies to observe how the distribution of pennies changes over time. The mechanics of the game are simple:
+  1. Flip your pennies.
+  2. Pass the pennies that come up heads to the person on your right and the pennies that come up tails to the person on your left.
+  3. In return, collect and count the pennies passed to you by your neighbors. 
+  4. Repeat these steps until the game ends.
+- The children vary the game by changing the initial conditions (how many children are in the row and how many pennies does each child have at the start of the game) and the boundary conditions (what happens at the ends of the row).
+- [Penny Simulation: Diffusion - CodPen](http://codepen.io/davidng/pen/QdeGjW)
+
+> We model the system’s randomness using coin flips (statistical mechanics) and model particle motion as steps between discrete points (finite element analysis) along a single dimension.
+
 >  Is this “teaching” or providing the conditions for learning? Is there a powerful idea and is the full power of that idea in a form a child can engage with, reason and have intuitions about, and work on?
 > It’s incomprehensible to me that we can expect students to study and attempt to make sense of science for years without understanding and applying this organizing idea.
 
@@ -9,7 +19,7 @@
 
 > Simulating random particle motion
 
-> magine a world where children play a game with pennies. Sitting in a row, they flip, pass, and count pennies to observe how the distribution of pennies changes over time. The mechanics of the game are simple:
+> Imagine a world where children play a game with pennies. Sitting in a row, they flip, pass, and count pennies to observe how the distribution of pennies changes over time. The mechanics of the game are simple:
 >  1. Flip your pennies.
 >  2. Pass the pennies that come up heads to the person on your right and the pennies that come up tails to the person on your left.
 >  3. In return, collect and count the pennies passed to you by your neighbors. 
