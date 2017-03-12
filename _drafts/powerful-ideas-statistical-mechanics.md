@@ -1,6 +1,6 @@
 ## Powerful Ideas and Statistical Mechanics
 
-- [Powerful Ideas and Statistical Mechanics and it is a Game too - GitHub Issue #24](https://github.com/janzeteachesit/100-days-of-writing/issues/240)
+- [Powerful Ideas and Statistical Mechanics and it is a Game too - GitHub Issue #24](https://github.com/janzeteachesit/100-days-of-writing/issues/24)
 
 - children play a game with pennies. Sitting in a row, they flip, pass, and count pennies to observe how the distribution of pennies changes over time. The mechanics of the game are simple:
   1. Flip your pennies.
