@@ -48,4 +48,8 @@ References:
 - [Alan Kay: A powerful idea about ideas](http://www.ted.com/talks/alan_kay_shares_a_powerful_idea_about_ideas/transcript?language=en)
 - [Squeakland EToys](http://www.squeakland.org/)
 - [Alan Kay on Hoping That “Simple” is not “Too Simple”](https://computinged.wordpress.com/2010/04/23/alan-kay-on-hoping-that-simple-is-not-too-simple/)
+- Children are the living messages we send to a time we will not see - Neil Postman, The Disapperance of Childhood
+- Alan Kay discusses the three types of learning (kinesthetic, visual, and symbolic) [Alan Kay on learning and the body - Kevin Simler](https://embodied.quora.com/Alan-Kay-on-learning-and-the-body)
+- [ALAN KAY ON LEARNING AND THE BODY - GSearch](https://www.google.ca/search?q=ALAN+KAY+ON+LEARNING+AND+THE+BODY&rlz=1C1CHBF_enCA700CA700&oq=ALAN+KAY+ON+LEARNING+AND+THE+BODY&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8#q=ALAN+KAY+ON+LEARNING+AND+THE+BODY&start=10&*)
+- [Curriculum for Embodied Creatures: where school leaves off and being human begins](https://embodied.quora.com/)
 
