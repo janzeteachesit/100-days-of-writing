@@ -16,6 +16,7 @@
 
 > The children vary the game by changing the initial conditions (how many children are in the row and how many pennies does each child have at the start of the game) and the boundary conditions (what happens at the ends of the row).
 > [Penny Simulation: Diffusion - CodPen](http://codepen.io/davidng/pen/QdeGjW)
+
 > We model the system’s randomness using coin flips (statistical mechanics) and model particle motion as steps between discrete points (finite element analysis) along a single dimension.
 > What I’m trying to point out is that a child can construct an adult understanding of the atomic hypothesis without needing to learn any of the insights made by earlier generations first.
 > Alan Kay talks about our three main brains for thinking. We use our “body brain” to flip, pass, and count the pennies. Our body brain knows on a deep instinctual level that the pennies are moving randomly — neither we nor the pennies are directing their motion. Yet, when we look up and scan the length of the row, our “eye brain” sees that, somehow, the pennies end up in predictable non-random distributions over time. How do the pennies know where to go? How do they organize themselves?
