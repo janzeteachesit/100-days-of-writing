@@ -8,6 +8,7 @@
 > But what if the only reason why it took generations for us to arrive at the atomic hypothesis is because we grow up in a landscape where atoms are in our blind spot? We don’t see or experience them directly, so it takes a series of insights before we can even begin to think in those terms. What would happen if we grew up in a world where atoms were as real to us as trees or rocks—and we could think about and relate to them through our own every day experiences? That is the question Seymour Papert poses in Mindstorms.
 
 > Simulating random particle motion
+
 > magine a world where children play a game with pennies. Sitting in a row, they flip, pass, and count pennies to observe how the distribution of pennies changes over time. The mechanics of the game are simple:
 >  1. Flip your pennies.
 >  2. Pass the pennies that come up heads to the person on your right and the pennies that come up tails to the person on your left.
@@ -18,11 +19,17 @@
 > [Penny Simulation: Diffusion - CodPen](http://codepen.io/davidng/pen/QdeGjW)
 
 > We model the system’s randomness using coin flips (statistical mechanics) and model particle motion as steps between discrete points (finite element analysis) along a single dimension.
+
 > What I’m trying to point out is that a child can construct an adult understanding of the atomic hypothesis without needing to learn any of the insights made by earlier generations first.
+
 > Alan Kay talks about our three main brains for thinking. We use our “body brain” to flip, pass, and count the pennies. Our body brain knows on a deep instinctual level that the pennies are moving randomly — neither we nor the pennies are directing their motion. Yet, when we look up and scan the length of the row, our “eye brain” sees that, somehow, the pennies end up in predictable non-random distributions over time. How do the pennies know where to go? How do they organize themselves?
+
 > Just by playing the game, a child would discover how complex macroscopic behaviors arise from easy-to-understand local mechanisms and how dynamic systems reach equilibrium. 
+
 > While our “language brains” may not be ready for an idea because we lack the insight and context to understand it, we can understand the idea if we use our body and eye brains first, and then use our language brain to express and generalize what we think as we are doing and seeing. In Mindstorms, Papert describes this as providing raw materials for building intellectual structures.
+
 > This is why I still tend to retreat to anthropomorphisms even when thinking and talking about science—my instincts about people run much deeper than my instincts about atoms and particles. 
+
 > What kind of culture of powerful ideas must we create?
  
 
