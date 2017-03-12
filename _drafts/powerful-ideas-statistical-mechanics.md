@@ -10,6 +10,7 @@
 - The children vary the game by changing the initial conditions (how many children are in the row and how many pennies does each child have at the start of the game) and the boundary conditions (what happens at the ends of the row).
 - [Penny Simulation: Diffusion - CodPen](http://codepen.io/davidng/pen/QdeGjW)
 - We model the system’s randomness using coin flips (statistical mechanics) and model particle motion as steps between discrete points (finite element analysis) along a single dimension.
+- Alan Kay discusses the three types of learning (kinesthetic, visual, and symbolic) 
 
 >  Is this “teaching” or providing the conditions for learning? Is there a powerful idea and is the full power of that idea in a form a child can engage with, reason and have intuitions about, and work on?
 
