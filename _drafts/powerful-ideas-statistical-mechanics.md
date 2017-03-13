@@ -18,7 +18,7 @@
 
 > But what if the only reason why it took generations for us to arrive at the atomic hypothesis is because we grow up in a landscape where atoms are in our blind spot? We don’t see or experience them directly, so it takes a series of insights before we can even begin to think in those terms. What would happen if we grew up in a world where atoms were as real to us as trees or rocks—and we could think about and relate to them through our own every day experiences? That is the question Seymour Papert poses in Mindstorms.
 
-> Simulating random particle motion
+> ` Simulating random particle motion
 
 > Imagine a world where children play a game with pennies. Sitting in a row, they flip, pass, and count pennies to observe how the distribution of pennies changes over time. The mechanics of the game are simple:
 >  1. Flip your pennies.
@@ -29,7 +29,7 @@
 > The children vary the game by changing the initial conditions (how many children are in the row and how many pennies does each child have at the start of the game) and the boundary conditions (what happens at the ends of the row).
 > [Penny Simulation: Diffusion - CodPen](http://codepen.io/davidng/pen/QdeGjW)
 
-> We model the system’s randomness using coin flips (statistical mechanics) and model particle motion as steps between discrete points (finite element analysis) along a single dimension.
+> We model the system’s randomness using coin flips (statistical mechanics) and model particle motion as steps between discrete points (finite element analysis) along a single dimension. ~ 
 
 > What I’m trying to point out is that a child can construct an adult understanding of the atomic hypothesis without needing to learn any of the insights made by earlier generations first.
 
