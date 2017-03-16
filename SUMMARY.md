@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [001](001.md)
+* [Why Google Classroom](docs/001-why-google-classroom.md)
 
 
 
