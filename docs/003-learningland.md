@@ -41,3 +41,5 @@ Ng finishes with:
 Which brings me full circle.  How can I use this to support to students as they learn Math, Science or Computer Science?  How do I build the Learningland materials my student need and deserve? 
 
 That is what remains to be seen. I will keep you informed.
+
+[Notes](003-notes.md)
