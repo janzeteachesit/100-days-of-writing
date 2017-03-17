@@ -203,7 +203,8 @@
   </style>
 </head>
 <body>
-  <div id="in"><form><textarea id="code">
+  <div id="in"><form>
+  <textarea id="code">
   
 # (GitHub-Flavored) Markdown Editor 
 ### "Borrowed" from James Taylor [jbt](https://github.com/jbt)
@@ -221,6 +222,7 @@ Basic useful feature list:
  * [CodeMirror](http://codemirror.net/) for the awesome syntax-highlighted editor
  * [highlight.js](http://softwaremaniacs.org/soft/highlight/en/) for syntax highlighting in output code blocks
  * [js-deflate](https://github.com/dankogai/js-deflate) for gzipping of data to make it fit in URLs
+ 
 </textarea></form></div>
   <div id="out"></div>
   <div id="menu">
