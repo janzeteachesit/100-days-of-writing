@@ -1,6 +1,10 @@
 [Main](./readme.md) | [Read on Medium](https://medium.com/designed-classroom/why-i-use-google-classroom-b2a987de6536)
 
 # Why Google Classroom
+## Or, What Do My Students’ Think of My Choices, Part 1
+
+![](https://cdn-images-1.medium.com/max/1000/1*tPj5qqXIGm3mHztDfa1ODw.png)
+###### Example of a Google Classroom assignment, with add menu visible; source: C. Janze, 2017
 
 In the planning stages of the STEM program, it was a given that some form of an online classroom was needed.  I had explored many options and had originally rejected Google Classroom, mainly because it required the use of Google Apps for Education accounts, and, therefore, closed off from parents and the world at large. As well, one of my guiding principles is D.R.Y. "Don't Repeat Yourself" - as in, Write Once (the message) and Publish Where-ever (the channels).  The closed nature of Google Classroom worked against that.  
 
