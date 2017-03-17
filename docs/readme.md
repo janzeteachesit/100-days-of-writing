@@ -4,7 +4,7 @@
 * [Main](readme.md)
 * [Log - click here to see my progress](log.md)
 * [How am I doing so far?](tally.md)
-* [markdown editor](https://janzeteachesit.github.io/markdown-editor)
+* [markdown editor](http://jbt.github.io/markdown-editor/)
 * [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
 
 <!--
