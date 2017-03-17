@@ -9,8 +9,8 @@
 
 
 ### Word Count
-- Pages				2
-- Words				666	
-- Characters			3915
-- Characters excluding spaces	3269
+* Pages				2
+* Words				666	
+* Characters			3915
+* Characters excluding spaces	3269
 
