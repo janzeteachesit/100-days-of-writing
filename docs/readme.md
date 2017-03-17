@@ -1,9 +1,9 @@
 # I've challenging myself to 100 Days Of Writing
 
 ## Contents
-* [Main](https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/readme.md)
-* [Log - click here to see my progress](https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/log.md)
-* [How am I doing so far?](https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/tally.md)
+* [Main](readme.md)
+* [Log - click here to see my progress](log.md)
+* [How am I doing so far?](tally.md)
 * [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
 
 <!--
