@@ -1,4 +1,4 @@
-[Main](./readme.md) | [Read on Medium](https://medium.com/designed-classroom/why-i-use-google-classroom-b2a987de6536)
+[Main](./readme.md) | [001-why-google-classroom.md](001-why-google-classroom.md) | [Read on Medium](https://medium.com/designed-classroom/why-i-use-google-classroom-b2a987de6536)
 
 
 https://paligo.net/the-5-principles-of-single-sourcing/
