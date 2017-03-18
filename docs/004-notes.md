@@ -1,4 +1,4 @@
-[Main](./README.md) | [Summary](./Sumary.md)
+[Main](../README.md) | [Summary](./Sumary.md)
 
 ---
 Images:
