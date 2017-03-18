@@ -1,4 +1,4 @@
-[Main](./readme.md)
+[Main](./README.md) | [My (Current) Publishing Workflow - Medium](https://medium.com/@janzeteachesit/my-current-publishing-workflow-a043e9cd3272)
 
 # My (current) Pubishing Workflow
 
@@ -14,22 +14,4 @@
     - change license: Attribution, non-commercial, share alike.
 8. Get link and paste in log.
 
-Images:
-I am going to edit and use this one: ![Digital Typewriter - pixabay](100-days-of-writing/assets/typewriter-498105_960_720.jpg)
-    ###### src: https://cdn.pixabay.com/photo/2014/10/22/15/29/typewriter-498105_960_720.jpg
-
-* [My (Current) Publishing Workflow - Medium](https://medium.com/@janzeteachesit/my-current-publishing-workflow-a043e9cd3272)
-* [Workflow - GitHub](./004-writing-workflow.md)
-* [My (Current) Publishing Workflow - Gdoc ](https://docs.google.com/document/d/1ZD4PGwJZzWoqW0op21N04Md8dOVg73QJX393qK-3acs/edit)
-
-Pages: 1
-Words: 154
-Characters: 927
-Characters excluding spaces: 794
-
-
-
-
-
-
-
+- [Notes](004-notes.md)
