@@ -1,4 +1,4 @@
-[Main](../) | [My (Current) Publishing Workflow - Medium](https://medium.com/@janzeteachesit/my-current-publishing-workflow-a043e9cd3272)
+[Main](readme.md) | [My (Current) Publishing Workflow - Medium](https://medium.com/@janzeteachesit/my-current-publishing-workflow-a043e9cd3272)
 
 # My (current) Pubishing Workflow
 ### I know; it's all over the place
