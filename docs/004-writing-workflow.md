@@ -1,6 +1,10 @@
 [Main](./README.md) | [My (Current) Publishing Workflow - Medium](https://medium.com/@janzeteachesit/my-current-publishing-workflow-a043e9cd3272)
 
 # My (current) Pubishing Workflow
+### I know; it's all over the place
+
+![](https://cdn-images-1.medium.com/max/1000/1*DGvQFZ2AFECtGzuV6QUsYg.jpeg)
+###### src: https://cdn.pixabay.com/photo/2014/10/22/15/29/typewriter-498105_960_720.jpg; edited by janzeteachest CC BY-NC-SA 4.0;
 
 1. In GitHub, create new entry in the log.
 2. In GitHub, create new .md file for notes and rough draft or outline.
