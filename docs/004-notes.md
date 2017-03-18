@@ -2,8 +2,9 @@
 
 ---
 Images:
-I am going to edit and use this one: ![Digital Typewriter - pixabay](100-days-of-writing/assets/typewriter-498105_960_720.jpg)
-    ###### src: https://cdn.pixabay.com/photo/2014/10/22/15/29/typewriter-498105_960_720.jpg
+I am going to edit and use this one: 
+![Digital Typewriter - pixabay](100-days-of-writing/assets/typewriter-498105_960_720.jpg)
+###### src: https://cdn.pixabay.com/photo/2014/10/22/15/29/typewriter-498105_960_720.jpg
 
 Links:
 - [My (Current) Publishing Workflow - Medium](https://medium.com/@janzeteachesit/my-current-publishing-workflow-a043e9cd3272)
