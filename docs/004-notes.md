@@ -3,7 +3,7 @@
 ---
 Images:
 I am going to edit and use this one: 
-![Digital Typewriter - pixabay](100-days-of-writing/assets/typewriter-498105_960_720.jpg)
+![Digital Typewriter - pixabay](../assets/100-days-of-writing/assets/typewriter-498105_960_720.jpg)
 ###### src: https://cdn.pixabay.com/photo/2014/10/22/15/29/typewriter-498105_960_720.jpg
 
 Links:
