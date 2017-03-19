@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](docs/readme.md)
   * [Tally](docs/tally.md)
   * [Log](docs/log.md)
 * [Why I Use Google Classroom](docs/001-why-google-classroom.md)
