@@ -1,4 +1,4 @@
-[Main](./readme.md) | [Read on Medium](https://medium.com/designed-classroom/why-i-use-google-classroom-b2a987de6536)
+[Main](readme.md) | [Read on Medium](https://medium.com/designed-classroom/why-i-use-google-classroom-b2a987de6536)
 # Why I Use Google Classroom
 ### Or, What Do My Students’ Think of My Choices, Part 1
 ![](https://cdn-images-1.medium.com/max/1000/1*tPj5qqXIGm3mHztDfa1ODw.png)
