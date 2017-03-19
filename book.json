@@ -1,0 +1,31 @@
+{
+	"title": "100 Days of Writing",
+  "author": "janzeteachesit",
+	"styles": {
+		"website": "styles/all.css",
+		"ebook": "styles/all.css",
+		"pdf": "styles/all.css",
+		"mobi": "styles/all.css",
+		"epub": "styles/all.css"
+	},
+	"plugins": ["scripts", "image-wrapper", "autocover"],
+	"pluginsConfig": {
+		"scripts": {
+			"files": ["./scripts/local-script.js"]
+		},
+		"autocover": {
+			"font": {
+				"size": null,
+				"family": "Impact",
+				"color": "#FFF"
+			},
+			"size": {
+				"w": 1800,
+				"h": 2360
+			},
+			"background": {
+				"color": "#09F"
+			}
+		}
+	}
+}
