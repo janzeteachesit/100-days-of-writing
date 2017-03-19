@@ -1,13 +1,8 @@
 # Summary
 
-* [Introduction](docs/readme.md)
-  * [Tally](docs/tally.md)
-  * [Log](docs/log.md)
+* [Introduction](README.md)
 * [Why I Use Google Classroom](docs/001-why-google-classroom.md)
 * [Thank-you, Rob Muhlestein](docs/002-thank-you-rob-muhlestein.md)
 * [Learningland](docs/003-learningland.md)
 * [My \(current\) Pubishing Workflow](docs/004-writing-workflow.md)
-
-
-
 
