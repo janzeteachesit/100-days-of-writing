@@ -6,7 +6,7 @@
 * [How am I doing so far?](tally.md)
 * [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
 
-
+## Resources
 [My Medium Profile](https://medium.com/@janzeteachesit)
 [My Learning Diary](https://janzeteachesit.github.io/Learning-Diary/)
 [JBT Markdown Editor](http://jbt.github.io/markdown-editor/)
@@ -34,7 +34,7 @@
     - share on twitter,
     - change license: Attribution, non-commercial, share alike.
 7. [ ] [Link - GitHub](100.md)
-8. [ ] [Summary](../Summary.md)
+8. [ ] [Summary](../SUMMARY.md)
 9. [ ] [Tally](tally.md)
 10. [ ] [ - GitBook]()
 11. [ ] [ - gh-pages]()
