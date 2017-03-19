@@ -21,3 +21,5 @@ But, as you brilliantly point out:
 > event-driven, approach (where loops destroy you). — Rob Muhlestein__*
 
 So, thanks again. Your article has provided the nudge I needed to bring my Python skills to the next level, and a paradigm I can use to re-introduce it in my classroom.
+
+[Notes](002-notes.md)
