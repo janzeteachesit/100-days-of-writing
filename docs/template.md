@@ -7,11 +7,11 @@
 * [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
 
 ## Resources
-[My Medium Profile](https://medium.com/@janzeteachesit)
-[My Learning Diary](https://janzeteachesit.github.io/Learning-Diary/)
-[JBT Markdown Editor](http://jbt.github.io/markdown-editor/)
-[Blank  - Google Doc](https://drive.google.com/open?id=12HMHbp8NEsiuH6AIHkAd4ZdGApVBny8XSR5UNnhTOGE)
-[New Story - Medium](https://medium.com/new-story)
+- [My Medium Profile](https://medium.com/@janzeteachesit)
+- [My Learning Diary](https://janzeteachesit.github.io/Learning-Diary/)
+- [JBT Markdown Editor](http://jbt.github.io/markdown-editor/)
+- [Blank  - Google Doc](https://drive.google.com/open?id=12HMHbp8NEsiuH6AIHkAd4ZdGApVBny8XSR5UNnhTOGE)
+- [New Story - Medium](https://medium.com/new-story)
 
 ### January 6, 2017 Friday
 
