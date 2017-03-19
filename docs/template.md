@@ -26,7 +26,7 @@
 **Process / Link(s) to work**
 1. [ ] [Notes - GitHub](template.md)
 2. [ ] [Grammarly](https://app.grammarly.com/)
-3. [ ] [ - Gdoc](https://drive.google.com/open?id=12HMHbp8NEsiuH6AIHkAd4ZdGApVBny8XSR5UNnhTOGE
+3. [ ] [ - Gdoc](https://drive.google.com/open?id=12HMHbp8NEsiuH6AIHkAd4ZdGApVBny8XSR5UNnhTOGE)
 4. [ ] [ - Medium](https://medium.com/new-story)
 5. [ ] [GImages => Tools => Usage Rights => Non-commercial reuse with modifications](https://www.google.ca/search?site=&tbm=isch&source=hp&biw=1050&bih=1535&q=writing&oq=writing&gs_l=img.3..35i39k1j0l9.3740.4602.0.5147.8.8.0.0.0.0.51.309.7.7.0....0...1.1.64.img..1.7.305.0.uKI6HM6QkmA#q=writing&tbs=sur:fm&tbm=isch)
 6. [ ] Medium publishing
