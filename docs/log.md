@@ -103,26 +103,6 @@ All are initial - read "still in posts".  Have to pick which one first.
 
 ---
 
-### January 8, 2017 Sunday
-
-#### 2 / 100
-
-**Today's Progress**: Thank-you, Rob Muhlestein
-
-**Link(s) to work**
-* [Thank-you, Rob Muhlestein](https://medium.com/@janzeteachesit/thank-you-rob-muhlestein-fadac38cfb42#.dnhl801pw)
-* [GitHub - Thank-you, Rob Muhlestein](./002-thank-you-rob-muhlestein.md)
-* [GDoc: Thank-you, Rob Muhlestein](https://docs.google.com/document/d/1VZztHV_aZTtAXk3Y-hPsveklaNKMaDuQBQm-BupMZUM/edit)
-
-**Details**
-
-* Pages	1
-* Words	351
-* Characters	2081
-* Characters excluding spaces	1747
-
----
-
 ### January 7, 2017 Saturday
 
 **Today's Progress**: Started STEM 8 Math GitBook
