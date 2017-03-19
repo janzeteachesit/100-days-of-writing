@@ -11,7 +11,7 @@
 	"plugins": ["scripts", "image-wrapper", "autocover"],
 	"pluginsConfig": {
 		"scripts": {
-			"files": ["./scripts/local-script.js"]
+			"files": ["scripts/local-script.js"]
 		},
 		"autocover": {
 			"font": {
