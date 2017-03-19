@@ -1,4 +1,4 @@
-# I've challenging myself to 100 Days Of Writing
+# I'm challenging myself to 100 Days Of Writing
 
 ## Contents
 * [Main](readme.md)
