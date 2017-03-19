@@ -2,6 +2,7 @@
 
 ## Contents
 * [Main](readme.md)
+* [Summary](../Summary.md)
 * [Log - click here to see my progress](log.md)
 * [How am I doing so far?](tally.md)
 * [markdown editor](http://jbt.github.io/markdown-editor/)
