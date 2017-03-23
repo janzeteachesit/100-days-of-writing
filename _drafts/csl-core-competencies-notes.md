@@ -51,7 +51,9 @@ and (perhaps) __*transform*__ it when new factors are introduced
 
 **Thoughts**: 
 1.  What is your inquiry question?
-  - create meaningful, robust, criteria/rubrics for formatively communicating and assessing student learning; encouraging our students to be reflective with respect to their learning (both successes and areas of growth). Students would be assessing themselves on a continuum (i.e. meeting expectations, exceeding expectations...etc) 
+  - create meaningful, robust, criteria/rubrics for formatively communicating and assessing student learning
+  - encouraging our students to be reflective with respect to their learning (both successes and areas of growth). 
+  - Students would be assessing themselves on a continuum (i.e. meeting expectations, exceeding expectations...etc) 
 2.	Please send us 2 -5 sentences about where you are at? 
 3.	What would you like to see in the last session on Mon. April 10th?
 
