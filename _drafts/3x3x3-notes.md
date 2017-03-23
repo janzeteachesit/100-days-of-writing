@@ -29,9 +29,6 @@ and (perhaps) __*transform*__ it when new factors are introduced
 
 
 [Notes]()
-- https://blog.leanstack.com/a-3x3x3-perspective-for-getting-your-vision-strategy-and-product-aligned-46aaa3b48922#.ummiw07e5
-- https://github.com/janzeteachesit/Learning-Diary/issues/289
-- https://github.com/janzeteachesit/100-days-of-writing/new/master/_drafts
 
 ## Contents
 * [Main](readme.md)
@@ -53,11 +50,15 @@ and (perhaps) __*transform*__ it when new factors are introduced
 **Thoughts**: 
 
 **Supporting Research**:
+- https://blog.leanstack.com/a-3x3x3-perspective-for-getting-your-vision-strategy-and-product-aligned-46aaa3b48922#.ummiw07e5
+- https://github.com/janzeteachesit/Learning-Diary/issues/289
+- \#104 100 Days Drafts
+- 
 
 **Process / Link(s) to work**
-1. [ ] [Notes - GitHub](template.md)
+1. [x] [Notes - GitHub](https://github.com/janzeteachesit/100-days-of-writing/edit/master/_drafts/3x3x3-notes.md)
 2. [ ] [Grammarly](https://app.grammarly.com/)
-3. [ ] [ - Gdoc](https://drive.google.com/open?id=12HMHbp8NEsiuH6AIHkAd4ZdGApVBny8XSR5UNnhTOGE)
+3. [x] [3x3x3-Notes - Gdoc](https://docs.google.com/document/d/1CgxHqjPwvB3PyrQ5Yf4eixhKiiDV5WEZ28M0qva0HgU/edit)
 4. [ ] [ - Medium](https://medium.com/new-story)
 5. [ ] [GImages => Tools => Usage Rights => Non-commercial reuse with modifications](https://www.google.ca/search?site=&tbm=isch&source=hp&biw=1050&bih=1535&q=writing&oq=writing&gs_l=img.3..35i39k1j0l9.3740.4602.0.5147.8.8.0.0.0.0.51.309.7.7.0....0...1.1.64.img..1.7.305.0.uKI6HM6QkmA#q=writing&tbs=sur:fm&tbm=isch)
 6. [ ] Medium publishing
