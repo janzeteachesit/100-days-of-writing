@@ -1,19 +1,16 @@
-# 100 Days Of Writing - Log
+# CSL Core Competencies: 100 Days Of Writing - Log
 
-## January 6, 2017 Friday
+## March 22, 2017 Wednesday
 
 ### / 100
 
 ## Structure
 
-#### Genre - 
+#### Genre - Unit / Pedagogical Plan
 
 #### Beginning 
 __*establish*__ relationship early in the piece,
 
-1. What is your inquiry question?
-2.	Please send us 2 -5 sentences about where you are at? 
-3.	What would you like to see in the last session on Mon. April 10th?
 
 ##### Thesis - 
 
@@ -53,6 +50,10 @@ and (perhaps) __*transform*__ it when new factors are introduced
 **Today's Progress**: 
 
 **Thoughts**: 
+1.  What is your inquiry question?
+  - create meaningful, robust, criteria/rubrics for formatively communicating and assessing student learning; encouraging our students to be reflective with respect to their learning (both successes and areas of growth). Students would be assessing themselves on a continuum (i.e. meeting expectations, exceeding expectations...etc) 
+2.	Please send us 2 -5 sentences about where you are at? 
+3.	What would you like to see in the last session on Mon. April 10th?
 
 **Supporting Research**:
 - \#104 100 Days Drafts
@@ -63,6 +64,7 @@ and (perhaps) __*transform*__ it when new factors are introduced
 - [#269 Time Never on you Side](https://github.com/janzeteachesit/Learning-Diary/issues/269)
 - [CSL: Follow-up from Monday's CSL session](https://github.com/janzeteachesit/Learning-Diary/issues/286)
 - https://github.com/janzeteachesit/100-days-of-writing/edit/master/_drafts/csl-core-competencies-notes.md
+- [The 4 Types of Inquiry-Based Learning](https://www.prodigygame.com/blog/inquiry-based-learning-definition-benefits-strategies/)
 
 **Process / Link(s) to work**
 1. [x] [Notes - GitHub](csl-core-competencies-notes.md)
