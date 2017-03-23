@@ -1,4 +1,5 @@
-# CSL Core Competencies: 100 Days Of Writing - Log
+# CSL Core Competencies
+## 100 Days Of Writing - Log
 
 ## March 22, 2017 Wednesday
 
@@ -17,6 +18,10 @@ __*establish*__ relationship early in the piece,
 - This is what I got from this article or experience:
 - This is what I will use it for going forward:
 - I was reading blank.  It reminded me of blank experience.
+- The Essential question: 
+- 
+> What does Quality Self-Assessment look like?
+
 
 
 #### Middle
@@ -24,6 +29,19 @@ __*sustain*__ it through consistent description,
 
 - Point/Snapshot/Event 
 - Point/Snapshot/Event
+
+> Quality assessment:
+> - focuses on all three components of the curriculum model – __knowing, doing, understanding__
+> - provides ongoing descriptive feedback to students
+> - provides __varied and multiple opportunities__ for learners to demonstrate their learning
+> - involves student in their learning
+> - promotes development of __student self-assessment and goal setting__ for next steps in learning
+> - allows for __a collection of student work to be gathered over time__ to provide a full profile of the learner and learning
+>
+> This process assists students in moving forward __toward their learning targets and goals__. Students are encouraged to __reflect and self-assess__ to build important meta-cognitive skills. Personalization lends itself to assessment as learning, where __students participate in the setting of criteria and the design of inquiries, and self- and peer-assessment__.
+> 
+> [Assessment and Reporting - curriculum.gov.bc.ca](https://curriculum.gov.bc.ca/assessment-info)
+
 
 #### End
 and (perhaps) __*transform*__ it when new factors are introduced
@@ -51,22 +69,26 @@ and (perhaps) __*transform*__ it when new factors are introduced
 
 **Thoughts**: 
 1.  What is your inquiry question?
-  - create meaningful, robust, criteria/rubrics for formatively communicating and assessing student learning
-  - encouraging our students to be reflective with respect to their learning (both successes and areas of growth). 
-  - Students would be assessing themselves on a continuum (i.e. meeting expectations, exceeding expectations...etc) 
-2.	Please send us 2 -5 sentences about where you are at? 
-3.	What would you like to see in the last session on Mon. April 10th?
+    - create meaningful, robust, criteria/rubrics for formatively communicating and assessing student learning
+    - encouraging our students to be reflective with respect to their learning (both successes and areas of growth). 
+    - Students would be assessing themselves on a continuum (i.e. meeting expectations, exceeding expectations...etc)
+2.  Please send us 2 -5 sentences about where you are at?
+	- [Core Competencies - docx](https://vsbworld-my.sharepoint.com/personal/cjanze_vsb_bc_ca/_layouts/15/guestaccess.aspx?docid=0c9a0139ee4444df0804a8a7657c0ba07&authkey=AYdnj1-tyflNkYbDGujizNI): Goal Setting core competencies for Term 3 
+3.	~~What would you like to see in the last session on Mon. April 10th?~~
 
 **Supporting Research**:
 - \#104 100 Days Drafts
 - [Core Competencies](https://curriculum.gov.bc.ca/competencies)
-- [Core Competencies - docx](https://vsbworld-my.sharepoint.com/personal/cjanze_vsb_bc_ca/_layouts/15/guestaccess.aspx?docid=0c9a0139ee4444df0804a8a7657c0ba07&authkey=AYdnj1-tyflNkYbDGujizNI)
+
 - [CSL Doc #133](https://github.com/janzeteachesit/Learning-Diary/issues/133)
 - [#270 RAT](https://github.com/janzeteachesit/Learning-Diary/issues/270)
 - [#269 Time Never on you Side](https://github.com/janzeteachesit/Learning-Diary/issues/269)
 - [CSL: Follow-up from Monday's CSL session](https://github.com/janzeteachesit/Learning-Diary/issues/286)
 - https://github.com/janzeteachesit/100-days-of-writing/edit/master/_drafts/csl-core-competencies-notes.md
-- [The 4 Types of Inquiry-Based Learning](https://www.prodigygame.com/blog/inquiry-based-learning-definition-benefits-strategies/)
+- [The 4 Types of Inquiry-Based Learning pdf -  Atlantic Memorial Terence Bay School](https://www.prodigygame.com/blog/inquiry-based-learning-definition-benefits-strategies/)
+- [School Plan for Communicating Student Learning](http://amc.hrsb.ca/sites/default/files/websites/amc.hrsb.ca/basic-page/2015/12/school_plan_for_communication_2015-2016.pdf)
+- [Curriculum and Assessment Update.pdf - NVSD](https://www.sd44.ca/Board/Meetings/Documents/Curriculum%20and%20Assessment%20Update.pdf)
+- "Students are encouraged to reflect and self-assess to build important meta-cognitive skills" - [Assessment and Reporting - curriculum.gov.bc.ca](https://curriculum.gov.bc.ca/assessment-info)
 
 **Process / Link(s) to work**
 1. [x] [Notes - GitHub](csl-core-competencies-notes.md)
