@@ -11,6 +11,10 @@
 #### Beginning 
 __*establish*__ relationship early in the piece,
 
+1. What is your inquiry question?
+2.	Please send us 2 -5 sentences about where you are at? 
+3.	What would you like to see in the last session on Mon. April 10th?
+
 ##### Thesis - 
 
 - This is what I got from this article or experience:
