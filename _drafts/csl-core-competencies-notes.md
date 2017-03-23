@@ -3,7 +3,7 @@
 
 ## March 22, 2017 Wednesday
 
-### / 100
+### 6(?)/ 100
 
 ## Structure
 
@@ -13,19 +13,24 @@
 __*establish*__ relationship early in the piece,
 
 
-##### Thesis - 
+##### Thesis/Essential question:  
 
-- This is what I got from this article or experience:
-- This is what I will use it for going forward:
-- I was reading blank.  It reminded me of blank experience.
-- The Essential question: 
-- 
-> What does Quality Self-Assessment look like?
+> What does Quality Self-Assessment (of the Core competencies) look like?
+
+-  Core competencies are sets of intellectual, personal, and social and emotional proficiencies that all students need to develop in order to engage in deep learning and life-long learning.
+-  Communication -The communication competency encompasses the set of abilities that students use to impart and exchange information, experiences and ideas, to explore the world around them, and to understand and effectively engage in the use of digital media.
+-  Thinking - The thinking competency encompasses the knowledge, skills and processes we associate with intellectual development. It is through their competency as thinkers that students take subject-specific concepts and content and transform them into a new understanding. Thinking competence includes specific thinking skills as well as habits of mind, and metacognitive awareness.
+-  Personal and Social - Personal and social competency is the set of abilities that relate to students' identity in the world, both as individuals and as members of their community and society. Personal and social competency encompasses the abilities students need to thrive as individuals, to understand and care about themselves and others, and to find and achieve their purposes in the world.
 
 
 
 #### Middle
 __*sustain*__ it through consistent description,
+
+- This is what I got from this article or experience:
+- This is what I will use it for going forward:
+- I was reading blank.  It reminded me of blank experience.
+
 
 - Point/Snapshot/Event 
 - Point/Snapshot/Event
@@ -42,6 +47,22 @@ __*sustain*__ it through consistent description,
 > 
 > [Assessment and Reporting - curriculum.gov.bc.ca](https://curriculum.gov.bc.ca/assessment-info)
 
+Students to set learning goals for third term for Math and Science:
+
+- What the student _knows_ (Content)
+- What the student can _do_ (Curricular Competencies)
+- What the student _understands_ (Big Ideas)
+
+>  There is no expectation for teachers to report on Core 
+Competencies because teachers are in fact assessing core competencies as 
+they report on the curricular competencies in each curricular area.  However, it is 
+important that students be able to identify their strengths and areas for 
+improvement through self-reflection and self-assessment (student voice).  In 
+taking ownership of their learning, students should be able to describe how they 
+are developing their Core Competencies, with the help of their teacher where 
+necessary.  (sample templates and tools will be provided). 
+>
+> [Draft CSL pdf - CC - NLPS SD - GDocs Folder](http://blogs.nlps.ca/core-competencies/)
 
 #### End
 and (perhaps) __*transform*__ it when new factors are introduced
@@ -78,8 +99,7 @@ and (perhaps) __*transform*__ it when new factors are introduced
 
 **Supporting Research**:
 - \#104 100 Days Drafts
-- [Core Competencies](https://curriculum.gov.bc.ca/competencies)
-
+- [Core Competencies - curriculum.gov.bc.ca](https://curriculum.gov.bc.ca/competencies)
 - [CSL Doc #133](https://github.com/janzeteachesit/Learning-Diary/issues/133)
 - [#270 RAT](https://github.com/janzeteachesit/Learning-Diary/issues/270)
 - [#269 Time Never on you Side](https://github.com/janzeteachesit/Learning-Diary/issues/269)
@@ -89,6 +109,11 @@ and (perhaps) __*transform*__ it when new factors are introduced
 - [School Plan for Communicating Student Learning](http://amc.hrsb.ca/sites/default/files/websites/amc.hrsb.ca/basic-page/2015/12/school_plan_for_communication_2015-2016.pdf)
 - [Curriculum and Assessment Update.pdf - NVSD](https://www.sd44.ca/Board/Meetings/Documents/Curriculum%20and%20Assessment%20Update.pdf)
 - "Students are encouraged to reflect and self-assess to build important meta-cognitive skills" - [Assessment and Reporting - curriculum.gov.bc.ca](https://curriculum.gov.bc.ca/assessment-info)
+- [THE GRADUATION LEARNING YEARS - AGPA Final Report](https://curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/pdf/agpa-final-report.pdf)
+- [Reporting Student Progress (Grades K–9): Guidelines for School Districts pdf- curriculum.gov.bc.ca](https://curriculum.gov.bc.ca/sites/curriculum.gov.bc.ca/files/pdf/updates/educator_update_student_progress_k-9.pdf)
+- [Core Competencies SD62 Virtual Learning Commons](http://learningcommons62.sd62.bc.ca/knowledge-building-centre-2/core-competencies/)
+- [Core Competencies - NLPS SD - GDocs Folder](https://drive.google.com/drive/folders/0B3qcUrOqV5eeQVprcW1ySF92S0E?usp=sharing)
+- [Student CC Self Assessments - SD60: Peace River North](http://www.prn.bc.ca/curric/?page_id=483)
 
 **Process / Link(s) to work**
 1. [x] [Notes - GitHub](csl-core-competencies-notes.md)
