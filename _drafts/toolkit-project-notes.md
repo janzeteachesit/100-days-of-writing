@@ -1,6 +1,6 @@
 # 100 Days Of Writing - Log
 
-## January 6, 2017 Friday
+## March 22, 2017
 
 ### / 100
 
@@ -28,7 +28,7 @@ __*sustain*__ it through consistent description,
 and (perhaps) __*transform*__ it when new factors are introduced
 
 
-[Notes]()
+[Notes](toolkit-project-notes.md)
 
 
 ## Contents
@@ -56,7 +56,7 @@ and (perhaps) __*transform*__ it when new factors are introduced
 - \#104 100 Days Drafts
 
 **Process / Link(s) to work**
-1. [x] [Notes - GitHub](https://github.com/janzeteachesit/100-days-of-writing/new/master/_drafts/toolkit-project-notes.md)
+1. [x] [Notes - GitHub](https://github.com/janzeteachesit/100-days-of-writing/blob/master/_drafts/toolkit-project-notes.md)
 2. [ ] [Grammarly](https://app.grammarly.com/)
 3. [x] [toolkit-project-notes - Gdoc](https://docs.google.com/document/d/14nsOBLti1A4xgVYXE40n72Nv1Vb2yRLXsmw9YNZYAks/edit)
 4. [ ] [ - Medium](https://medium.com/new-story)
