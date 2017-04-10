@@ -1,4 +1,4 @@
-## [link to table of published articles](https://github.com/janzeteachesit/100-days-of-writing/blob/master/docs/tally.md)
+- [ ] link to own issue: GRIST / ?
 
 ## Un-linked Articles
 - #8 Article: My Public Self - busterbenson
