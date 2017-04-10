@@ -1,4 +1,4 @@
-- [ ] link to own issue: GRIST / ?
+- [ ] link to own issue: GRIST / ?; use this for ACTIVE Research
 
 ## Un-linked Articles
 - #8 Article: My Public Self - busterbenson
