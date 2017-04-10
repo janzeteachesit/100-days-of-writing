@@ -4,7 +4,7 @@
 
 - [100 Days Master List #188 ](https://github.com/janzeteachesit/Learning-Diary/issues/188)
   - [ ] add to GitBook and close all 100 Days of Writing related issues and projects
-- [ ] [GitBooks updated list #390](https://github.com/janzeteachesit/Learning-Diary/issues/390)
+- [ ] [GitBooks updated list #390](https://github.com/janzeteachesit/Learning-Diary/issues/390): START HERE
 - [ ] [Gitbooks - Learning Diary page](https://github.com/janzeteachesit/Learning-Diary/blob/master/docs/janzeteachesit-gitbooks.md): edit this page to match #390.
 
 ## [janzetachesit @ GitBooks](https://www.gitbook.com/@janzeteachesit)
