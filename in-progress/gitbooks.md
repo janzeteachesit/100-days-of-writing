@@ -2,7 +2,7 @@
 
 ## Links:
 - [Gitbooks - Learning Diary page](https://github.com/janzeteachesit/Learning-Diary/blob/master/docs/janzeteachesit-gitbooks.md)
-- #188 100 Days Master List
+- [100 Days Master List #188 ](https://github.com/janzeteachesit/Learning-Diary/issues/188)
 - [GitBooks updated list #390](https://github.com/janzeteachesit/Learning-Diary/issues/390)
 
 ## [janzetachesit @ GitBooks](https://www.gitbook.com/@janzeteachesit)
