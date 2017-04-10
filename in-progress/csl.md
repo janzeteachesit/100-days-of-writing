@@ -1,9 +1,7 @@
 # Communicating Student Learning
-[csl.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/in-progress/csl.md) | [CSL Doc #133]
-
+[csl.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/in-progress/csl.md) | [CSL Doc #133](https://github.com/janzeteachesit/Learning-Diary/issues/133)
 
 20170321
-(https://github.com/janzeteachesit/Learning-Diary/issues/133)
 - [ ] [csl-core-competencies.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/_drafts/csl-core-competencies.md)
 - [ ] #269 Time Never on you Side
 - [ ] #270 RAT
