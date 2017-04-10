@@ -11,8 +11,12 @@
 
 ## End-Notes. Links, Errata
 - [\_drafts/deeper-learning.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/_drafts/deeper-learning.md)
-- [#68](https://github.com/janzeteachesit/Learning-Diary/issues/68) 
-- [#184](https://github.com/janzeteachesit/Learning-Diary/issues/184)
-- [#188](https://github.com/janzeteachesit/Learning-Diary/issues/188)
-
+- [Article: DEEPER LEARNING COMPETENCIES #68](https://github.com/janzeteachesit/Learning-Diary/issues/68) 
+- [Article: Paint with only water first #184](https://github.com/janzeteachesit/Learning-Diary/issues/184)
+- [100 Days Master List #188](https://github.com/janzeteachesit/Learning-Diary/issues/188)
+- [Powerful Ideas and Statistical Mechanics and it is a Game too# 24](https://github.com/janzeteachesit/100-days-of-writing/issues/24)
+- [Article: 3x3x3 Perspective for getting your Vision Strategy and Product aligned #289](https://github.com/janzeteachesit/Learning-Diary/issues/289)
+- [Article: The Toolkit Project: Visual toolkits for creative problem solving #288](https://github.com/janzeteachesit/Learning-Diary/issues/288)
+- [skills-to-master-notes.md #292](https://github.com/janzeteachesit/Learning-Diary/issues/292)
+- [CSL: Follow-up from Monday's CSL session #286](https://github.com/janzeteachesit/Learning-Diary/issues/286)
 
