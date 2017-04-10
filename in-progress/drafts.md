@@ -1,4 +1,4 @@
-## Drafts _drafts in [100 Days](https://github.com/janzeteachesit/100-days-of-writing/tree/master/_drafts)
+## _drafts in [100 Days](https://github.com/janzeteachesit/100-days-of-writing/tree/master/_drafts)
 - [100 Days of Writing Published and Drafts #104](https://github.com/janzeteachesit/Learning-Diary/issues/104): _CLOSED_
 
 ### Drafts and Published TOC
