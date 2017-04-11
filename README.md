@@ -1,6 +1,6 @@
 # Writing Journal
 
-[Learning Diary](https://github.com/janzeteachesit/Learning-Diary/edit/master/README.md)
+[Learning Diary](https://github.com/janzeteachesit/Learning-Diary/blob/master/README.md)
 
 ## TOC
 * [Main](readme.md)
