@@ -1,6 +1,8 @@
-# I'm challenging myself to 100 Days Of Writing
+# Writing Journal
 
-## Contents
+[Learning Diary](https://github.com/janzeteachesit/Learning-Diary/edit/master/README.md)
+
+## TOC
 * [Main](readme.md)
 * [Summary](SUMMARY.md)
 * [Log - click here to see my progress](docs/log.md)
