@@ -1,6 +1,6 @@
-# 100 Days Of Writing - Log
+# TITLE
 
-## January 6, 2017 Friday
+## April 10, 2017, Monday
 
 ### / 100
 
@@ -17,7 +17,6 @@ __*establish*__ relationship early in the piece,
 - This is what I will use it for going forward:
 - I was reading blank.  It reminded me of blank experience.
 
-
 #### Middle
 __*sustain*__ it through consistent description,
 
@@ -27,34 +26,37 @@ __*sustain*__ it through consistent description,
 #### End
 and (perhaps) __*transform*__ it when new factors are introduced
 
-
 [Notes]()
 
-
-## Contents
+## TOC
 * [Main](readme.md)
-* [Log - click here to see my progress](log.md)
+* [Summary](SUMMARY.md)
+* [Log - click here to see my progress](docs/log.md)
 * [How am I doing so far?](tally.md)
+* [markdown editor](http://jbt.github.io/markdown-editor/)
 * [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
 
-## Resources
-- [My Medium Profile](https://medium.com/@janzeteachesit)
-- [My Learning Diary](https://janzeteachesit.github.io/Learning-Diary/)
-- [JBT Markdown Editor](http://jbt.github.io/markdown-editor/)
-- [Blank  - Google Doc](https://drive.google.com/open?id=12HMHbp8NEsiuH6AIHkAd4ZdGApVBny8XSR5UNnhTOGE)
-- [New Story - Medium](https://medium.com/new-story)
-- [1-Writing - GDoc Folder](https://drive.google.com/drive/u/0/folders/0BxQaMnTJamWkfjU3VURSVS1lTHlJamh3Y0dTU3BpMmtQbVN2aEpmWEt2eXBoMVJnRk8xVXM)
+### Details
+
+* Pages:
+* Words:
+* Characters:	
+* Characters excluding spaces:
 
 ## Retrospective
-**Today's Progress**: 
+### Today's Progress
 
-**Thoughts**: 
+#### Thoughts
 
-**Supporting Research**:
-- \#104 100 Days Drafts
+#### Supporting Research
 
-**Process / Link(s) to work**
-1. [ ] [Notes - GitHub](template.md)
+#### Links
+- [ARTICLE: Developing Games With Phaser by Graham Marlow on CodePen #_322](https://github.com/janzeteachesit/100-days-of-writing/issues/322)
+  - [ ] added to GitBook 
+
+
+#### Process / Link(s) to work
+1. [ ] [phaser-for-gd.md - GitHub](https://github.com/janzeteachesit/100-days-of-writing/blob/master/in-progress/phaser-for-gd.md)
 2. [ ] [Grammarly](https://app.grammarly.com/)
 3. [ ] [ - Gdoc](https://drive.google.com/open?id=12HMHbp8NEsiuH6AIHkAd4ZdGApVBny8XSR5UNnhTOGE)
 4. [ ] [ - Medium](https://medium.com/new-story)
@@ -69,9 +71,12 @@ and (perhaps) __*transform*__ it when new factors are introduced
 10. [ ] [ - GitBook]()
 11. [ ] [ - gh-pages]()
 
-**Details**
 
-* Pages:
-* Words:
-* Characters:	
-* Characters excluding spaces:
+
+## Resources
+- [My Medium Profile](https://medium.com/@janzeteachesit)
+- [My Learning Diary](https://janzeteachesit.github.io/Learning-Diary/)
+- [JBT Markdown Editor](http://jbt.github.io/markdown-editor/)
+- [Blank  - Google Doc](https://drive.google.com/open?id=12HMHbp8NEsiuH6AIHkAd4ZdGApVBny8XSR5UNnhTOGE)
+- [New Story - Medium](https://medium.com/new-story)
+- [1-Writing - GDoc Folder](https://drive.google.com/drive/u/0/folders/0BxQaMnTJamWkfjU3VURSVS1lTHlJamh3Y0dTU3BpMmtQbVN2aEpmWEt2eXBoMVJnRk8xVXM)
