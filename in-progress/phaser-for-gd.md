@@ -56,6 +56,7 @@ and (perhaps) __*transform*__ it when new factors are introduced
 - [phaser-template - repo Titans Programmers](https://github.com/templetontitan/phaser-template)
 - [phaser-template - repo DBG](https://github.com/dream-big-games/phaser-template)
 - [phaser - repo DBG](https://github.com/dream-big-games/phaser)
+- [link-dump-20170410.md](https://github.com/janzeteachesit/100-days-of-writing/blob/master/in-progress/link-dump-20170410.md)
 - [PhaserEditor_Tutorial_Platformer_1 - repo DBG](https://github.com/dream-big-games/PhaserEditor_Tutorial_Platformer_1)
 - [ARTICLE: Developing Games With Phaser by Graham Marlow on CodePen #-322](https://github.com/janzeteachesit/100-days-of-writing/issues/322)
   - [ ] added to GitBook 
