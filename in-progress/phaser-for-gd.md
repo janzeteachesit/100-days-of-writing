@@ -1,13 +1,6 @@
+# phaser-for-gd
 
-
-
-### Links
-- [ARTICLE: Developing Games With Phaser by Graham Marlow on CodePen #_322](https://github.com/janzeteachesit/100-days-of-writing/issues/322)
-  - [ ] added to GitBook 
-
-# 100 Days Of Writing - Log
-
-## January 6, 2017 Friday
+## April 10, 2017, Monday
 
 ### / 100
 
@@ -38,30 +31,39 @@ and (perhaps) __*transform*__ it when new factors are introduced
 [Notes]()
 
 
-## Contents
+## TOC
+
 * [Main](readme.md)
 * [Log - click here to see my progress](log.md)
 * [How am I doing so far?](tally.md)
 * [FAQ, etc.](https://github.com/janzeteachesit/100-days-of-writing/wiki) 
 
-## Resources
-- [My Medium Profile](https://medium.com/@janzeteachesit)
-- [My Learning Diary](https://janzeteachesit.github.io/Learning-Diary/)
-- [JBT Markdown Editor](http://jbt.github.io/markdown-editor/)
-- [Blank  - Google Doc](https://drive.google.com/open?id=12HMHbp8NEsiuH6AIHkAd4ZdGApVBny8XSR5UNnhTOGE)
-- [New Story - Medium](https://medium.com/new-story)
-- [1-Writing - GDoc Folder](https://drive.google.com/drive/u/0/folders/0BxQaMnTJamWkfjU3VURSVS1lTHlJamh3Y0dTU3BpMmtQbVN2aEpmWEt2eXBoMVJnRk8xVXM)
+### Details
+
+* Pages:
+* Words:
+* Characters:	
+* Characters excluding spaces:
 
 ## Retrospective
-**Today's Progress**: 
+### Today's Progress
 
-**Thoughts**: 
+#### Thoughts
 
-**Supporting Research**:
-- \#104 100 Days Drafts
+#### Supporting Research
 
-**Process / Link(s) to work**
-1. [ ] [Notes - GitHub](template.md)
+#### Links
+- [phaser-template - repo Titans Programmers](https://github.com/templetontitan/phaser-template)
+- [phaser-template - repo DBG](https://github.com/dream-big-games/phaser-template)
+- [phaser - repo DBG](https://github.com/dream-big-games/phaser)
+- [PhaserEditor_Tutorial_Platformer_1 - repo DBG](https://github.com/dream-big-games/PhaserEditor_Tutorial_Platformer_1)
+- [ARTICLE: Developing Games With Phaser by Graham Marlow on CodePen #-322](https://github.com/janzeteachesit/100-days-of-writing/issues/322)
+  - [ ] added to GitBook 
+- [ARTICLE: Phaser Jump Game #321](https://github.com/janzeteachesit/100-days-of-writing/issues/321)
+
+
+#### Process / Link(s) to work
+1. [ ] [phaser-for-gd.md - GitHub](https://github.com/janzeteachesit/100-days-of-writing/blob/master/in-progress/phaser-for-gd.md)
 2. [ ] [Grammarly](https://app.grammarly.com/)
 3. [ ] [ - Gdoc](https://drive.google.com/open?id=12HMHbp8NEsiuH6AIHkAd4ZdGApVBny8XSR5UNnhTOGE)
 4. [ ] [ - Medium](https://medium.com/new-story)
@@ -71,14 +73,17 @@ and (perhaps) __*transform*__ it when new factors are introduced
     - share on twitter,
     - change license: Attribution, non-commercial, share alike.
 7. [ ] [Link - GitHub](100.md)
-8. [ ] [Summary](../SUMMARY.md)
+8. [ ] [Summary](https://github.com/janzeteachesit/100-days-of-writing/blob/master/SUMMARY.md)
 9. [ ] [Tally](tally.md)
 10. [ ] [ - GitBook]()
 11. [ ] [ - gh-pages]()
 
-**Details**
 
-* Pages:
-* Words:
-* Characters:	
-* Characters excluding spaces:- 
+
+## Resources
+- [My Medium Profile](https://medium.com/@janzeteachesit)
+- [My Learning Diary](https://janzeteachesit.github.io/Learning-Diary/)
+- [JBT Markdown Editor](http://jbt.github.io/markdown-editor/)
+- [Blank  - Google Doc](https://drive.google.com/open?id=12HMHbp8NEsiuH6AIHkAd4ZdGApVBny8XSR5UNnhTOGE)
+- [New Story - Medium](https://medium.com/new-story)
+- [1-Writing - GDoc Folder](https://drive.google.com/drive/u/0/folders/0BxQaMnTJamWkfjU3VURSVS1lTHlJamh3Y0dTU3BpMmtQbVN2aEpmWEt2eXBoMVJnRk8xVXM)
