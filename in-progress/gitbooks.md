@@ -6,6 +6,7 @@
   - [ ] add to GitBook and close all 100 Days of Writing related issues and projects
 - [ ] [GitBooks updated list #390](https://github.com/janzeteachesit/Learning-Diary/issues/390): START HERE
 - [ ] [Gitbooks - Learning Diary page](https://github.com/janzeteachesit/Learning-Diary/blob/master/docs/janzeteachesit-gitbooks.md): edit this page to match #390.
+- [Add to GitBook - Project](https://github.com/janzeteachesit/Learning-Diary/projects/14)
 
 ## [janzetachesit @ GitBooks](https://www.gitbook.com/@janzeteachesit)
 - 100 Days of writing [Read](https://janzeteachesit.gitbooks.io/100-days-of-writing/content/) | [Edit](https://www.gitbook.com/book/janzeteachesit/100-days-of-writing/edit#/edit/master/README.md) | [GitHub](https://github.com/janzeteachesit/100-days-of-writing): I'm challenging myself to 100 Days Of Writing
