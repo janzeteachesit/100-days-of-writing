@@ -2,6 +2,8 @@
 
 [Learning Diary](https://github.com/janzeteachesit/Learning-Diary/blob/master/README.md)
 
+[Organizing GitHub 20170430](https://drive.google.com/open?id=1Tu_b1oixurg9lId2z3LH_ZiLz1sH9sYD9ypdmZGwE9c)
+
 ## TOC
 * [Main](readme.md)
 * [Summary](SUMMARY.md)
