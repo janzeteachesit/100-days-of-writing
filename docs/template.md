@@ -9,19 +9,23 @@ By the end of Course A students will have the tools necessary to turn word probl
 </ul>
 </blockquote>
 <p><a href="link-to-notes.md">Notes</a></p>
-<h1 id="links">Links</h1>
 <ul>
 <li><a href="https://code.org/curriculum/algebra">What is “Computer Science in Algebra”</a>: from the <a href="http://Code.org">Code.org</a> website</li>
 </ul>
 <h4 id="essential-questionpurpose">Essential Question/Purpose</h4>
-<h4 id="genre--">Genre -</h4>
+<ol>
+<li>[ ] Introduce <a href="http://Code.org">Code.org</a> CS in Algebra Course A</li>
+<li>[ ] Introduce <a href="http://Code.org">Code.org</a> CS in Algebra</li>
+<li>[ ] Introduce <a href="http://Code.org">Code.org</a></li>
+</ol>
+<h4 id="genre">Genre</h4>
 <h4 id="links-external--static">Links (External / Static)</h4>
 <ul>
-<li><a href="https://github.com/janzeteachesit/link-to-repo-this-is-in">link to repo this is in?</a></li>
+<li><a href="https://github.com/janzeteachesit/cs-in-algebra">janzeteachesit/cs-in-algebra - GitHub</a></li>
 </ul>
 <h4 id="process--links-to-work">Process / Link(s) to work</h4>
 <ol>
-<li>[x] <a href="https://github.com/janzeteachesit/cs-in-algebra/blob/master/coursea.md">link-to-md.md</a>; open <a href="https://app.classeur.io/#!/files/hRqqEOmHrYrYk8TPpYmc">in Classeur</a></li>
+<li>[x] <a href="https://github.com/janzeteachesit/cs-in-algebra/blob/master/coursea.md">coursea.md</a>; open <a href="https://app.classeur.io/#!/files/hRqqEOmHrYrYk8TPpYmc">in Classeur</a></li>
 <li>[x] <a href="https://app.grammarly.com/docs/165165827">cs-in-alg-coursea Grammarly</a></li>
 <li>[x] <a href="https://docs.google.com/document/d/1nNFw6lUaLK_SEfo8eHtL912JhzpvwOJxLyOxccRZ9RU/edit?usp=sharing">cs-in-alg-coursea-notes - Gdoc</a>: doc and <a href="https://drive.google.com/open?id=0BysMfTbvAUUVWGltMWVOeHFJOTg">cs-in-algebra - GFolder</a></li>
 <li>[ ] <a href="https://medium.com/new-story">link-to-medium - Medium</a></li>
