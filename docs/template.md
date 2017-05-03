@@ -21,7 +21,7 @@ By the end of Course A students will have the tools necessary to turn word probl
 </ul>
 <h4 id="process--links-to-work">Process / Link(s) to work</h4>
 <ol>
-<li>[ ] <a href="https://github.com/janzeteachesit/repo/link-to-md.md">link-to-md.md</a>; open <a href="https://app.classeur.io/">Classeur Markdown Editor</a></li>
+<li>[ ] <a href="https://github.com/janzeteachesit/cs-in-algebra/blob/master/coursea.md">link-to-md.md</a>; open <a href="https://app.classeur.io/#!/files/hRqqEOmHrYrYk8TPpYmc">in Classeur</a></li>
 <li>[ ] <a href="https://app.grammarly.com/">link-to-gramarly Grammarly</a></li>
 <li>[ ] <a href="https://docs.google.com/document/d/1nNFw6lUaLK_SEfo8eHtL912JhzpvwOJxLyOxccRZ9RU/edit?usp=sharing">cs-in-alg-coursea-notes - Gdoc</a>: doc and [cs-in-algebra - GFolder](<a href="https://drive.google.com/open?id=0BysMfTbvAUUVWGltMWVOeHFJOTg">https://drive.google.com/open?id=0BysMfTbvAUUVWGltMWVOeHFJOTg</a></li>
 <li>[ ] <a href="https://medium.com/new-story">link-to-medium - Medium</a></li>
