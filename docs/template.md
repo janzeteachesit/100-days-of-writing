@@ -1,27 +1,30 @@
 <h1 id="unit-1---course-a">Unit 1 - Course A</h1>
 <h2 id="code.org-cs-in-algebra"><a href="http://Code.org">Code.org</a> CS in Algebra</h2>
 <h3 id="may-3rd-2017-wednesday">May 3rd, 2017, Wednesday</h3>
-<blockquote>
-<p>The first 10 hour course provides students with the foundational skills and knowledge to begin using computer programming as a tool to learn about and develop algebraic functions. Students will be introduced to a graphical programming language designed for Algebra instruction, through which they will gain a deeper understanding of the order of operations, create images with algebraic expressions, and learn a technique for creating functions called the Design Recipe.<br>
+<p>Course A is the first of a 2-part course that aims to teach algebraic and geometric concepts through computer programming within the context of video game design.  Course A outlines for students the foundation skills and knowledge necessary to begin using computer programming as a tool to learn about and develop algebraic functions.<br>
+Students will be introduced to a graphical programming language called Blockly.<br>
+They will gain a deeper understanding of the order of operations, how to create images with algebraic expressions, and learn a technique for creating functions called the Design Recipe.<br>
 By the end of Course A students will have the tools necessary to turn word problems from their own Algebra class into functions that can be used as mini apps.</p>
 <ul>
 <li><a href="https://curriculum.code.org/algebra/courseA/">Course A - curriculum.code.org</a></li>
 </ul>
-</blockquote>
+<p>CS in Algebra is provided and supported free-of-charge and world-wide by <a href="https://code.org/about">Code.org</a>, a non-profit dedicated to expanding access to computer science, and increasing participation by women and underrepresented minorities.</p>
 <p><a href="link-to-notes.md">Notes</a></p>
 <ul>
 <li><a href="https://code.org/curriculum/algebra">What is “Computer Science in Algebra”</a>: from the <a href="http://Code.org">Code.org</a> website</li>
 </ul>
 <h4 id="essential-questionpurpose">Essential Question/Purpose</h4>
 <ol>
-<li>[ ] Introduce <a href="http://Code.org">Code.org</a> CS in Algebra Course A</li>
-<li>[ ] Introduce <a href="http://Code.org">Code.org</a> CS in Algebra</li>
-<li>[ ] Introduce <a href="http://Code.org">Code.org</a></li>
+<li>[x] <a href="http://Code.org">Code.org</a> CS in Algebra Course A</li>
+<li>[x] <a href="https://curriculum.code.org/algebra/">Code.org CS in Algebra</a>: <s><a href="http://Code.org">Code.org</a> has partnered with Bootstrap to develop a curriculum which teaches algebraic and geometric concepts through computer programming.</s> The twenty lessons focus on concepts like order of operations, the Cartesian plane, function composition and definition, and solving word problems - <s>all within the context of video game design</s>. By shifting classwork from abstract pencil-and-paper problems to a series of relevant programming problems, <a href="http://Code.org">Code.org</a> CS in Algebra demonstrates how algebra applies in the real world, using an exciting, hands-on approach to create something cool.</li>
+<li>[x] <a href="https://code.org/about">Code.org</a>: <s>… is a non-profit dedicated to expanding access to computer science, and increasing participation by women and underrepresented minorities.</s></li>
+<li>[ ] <a href="https://developers.google.com/blockly/">Blockly</a> A library for building visual programming editors. see also:  <a href="https://blockly-demo.appspot.com/static/demos/blockfactory/index.html">Blockly Developer Tools</a>, <a href="https://blockly-demo.appspot.com/static/demos/code/index.html">Code Editor</a></li>
 </ol>
 <h4 id="genre">Genre</h4>
 <h4 id="links-external--static">Links (External / Static)</h4>
 <ul>
-<li><a href="https://github.com/janzeteachesit/cs-in-algebra">janzeteachesit/cs-in-algebra - GitHub</a></li>
+<li><a href="https://github.com/janzeteachesit/cs-in-algebra">janzeteachesit/cs-in-algebra - GitHub repo</a></li>
+<li><a href="https://lab.open-roberta.org/">Open Roberta Lab</a>The Open Roberta Lab is a cloud-based integrated programming environment that enables children and adolescents to program easily different robot systems. This platform is completely open source so taking part is desirable! Both the software and the open source developer tools are available via Fraunhofer servers.</li>
 </ul>
 <h4 id="process--links-to-work">Process / Link(s) to work</h4>
 <ol>
@@ -80,4 +83,11 @@ By the end of Course A students will have the tools necessary to turn word probl
 <li><a href="https://medium.com/new-story">New Story - Medium</a></li>
 <li><a href="https://drive.google.com/drive/u/0/folders/0BxQaMnTJamWkfjU3VURSVS1lTHlJamh3Y0dTU3BpMmtQbVN2aEpmWEt2eXBoMVJnRk8xVXM">1-Writing - GDoc Folder</a></li>
 <li><a href="https://app.classeur.io/">Classeur Markdown Editor</a></li>
+</ul>
+<p>COURSE A</p>
+<p>The first 10 hour course provides students with the foundational skills and knowledge to begin using computer programming as a tool to learn about and develop algebraic functions. Students will be introduced to a graphical programming language designed for Algebra instruction, through which they will gain a deeper understanding of the order of operations, create images with algebraic expressions, and learn a technique for creating functions called the Design Recipe.</p>
+<p>COURSE B</p>
+<p>For classes that wish to go further, the second 10 hour course builds on the skills students developed in Course A through the development of a simple video game. Students will delve deeper into the intersection of Math and CS by studying topics such as boolean logic, piecewise functions, and collision detection with the Pythagorean Theorem, using these concepts to build supporting functions that will eventually drive the logic in their culminating game.</p>
+<ul>
+<li><a href="https://curriculum.code.org/algebra/">https://curriculum.code.org/algebra/</a></li>
 </ul>
