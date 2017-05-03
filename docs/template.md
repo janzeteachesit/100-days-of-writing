@@ -12,8 +12,26 @@ By the end of Course A students will have the tools necessary to turn word probl
 <p><a href="link-to-notes.md">Notes</a></p>
 <ul>
 <li><a href="https://code.org/curriculum/algebra">What is “Computer Science in Algebra”</a>: from the <a href="http://Code.org">Code.org</a> website</li>
+<li><a href="https://curriculum.code.org/algebra/standards/">Standards Alignment</a> with the Common Core Math Standards</li>
+<li><a href="https://curriculum.code.org/algebra/vocab/">Vocabulary Used</a></li>
+<li><a href="https://curriculum.code.org/algebra/resources/">Resources - Course A</a></li>
+<li><a href="https://curriculum.code.org/algebra/resources/">Resources</a></li>
+<li>Course A Lessons
+<ul>
+<li><a href="https://curriculum.code.org/algebra/courseA/1/">Lesson 1: Evaluation Blocks and Arithmetic Expressions</a></li>
+<li><a href="https://curriculum.code.org/algebra/courseA/2/">Lesson 2: Strings and Images</a></li>
+<li><a href="https://curriculum.code.org/algebra/courseA/3/">Lesson 3: Contracts, Domain, and Range</a></li>
+<li><a href="https://curriculum.code.org/algebra/courseA/4/">Lesson 4: Writing Contracts</a></li>
+<li><a href="https://curriculum.code.org/algebra/courseA/5/">Lesson 5: Defining Variables and Substitution</a></li>
+<li><a href="https://curriculum.code.org/algebra/courseA/6/">Lesson 6: Fast Functions</a></li>
+<li><a href="https://curriculum.code.org/algebra/courseA/7/">Lesson 7: Composite Functions</a></li>
+<li><a href="https://curriculum.code.org/algebra/courseA/8/">Lesson 8: The Design Recipe</a></li>
+<li><a href="https://curriculum.code.org/algebra/courseA/9/">Lesson 9: Solving Word Problems with the Design Recipe</a></li>
+<li><a href="https://curriculum.code.org/algebra/courseA/10/">Lesson 10: Rocket Height</a></li>
 </ul>
-<h4 id="essential-questionpurpose">Essential Question/Purpose</h4>
+</li>
+</ul>
+<h3 id="essential-questionpurpose">Essential Question/Purpose</h3>
 <ol>
 <li>[x] <a href="http://Code.org">Code.org</a> CS in Algebra Course A</li>
 <li>[x] <a href="https://curriculum.code.org/algebra/">Code.org CS in Algebra</a>: <s><a href="http://Code.org">Code.org</a> has partnered with Bootstrap to develop a curriculum which teaches algebraic and geometric concepts through computer programming.</s> The twenty lessons focus on concepts like order of operations, the Cartesian plane, function composition and definition, and solving word problems - <s>all within the context of video game design</s>. By shifting classwork from abstract pencil-and-paper problems to a series of relevant programming problems, <a href="http://Code.org">Code.org</a> CS in Algebra demonstrates how algebra applies in the real world, using an exciting, hands-on approach to create something cool.</li>
@@ -21,6 +39,10 @@ By the end of Course A students will have the tools necessary to turn word probl
 <li>[ ] <a href="https://developers.google.com/blockly/">Blockly</a> A library for building visual programming editors. see also:  <a href="https://blockly-demo.appspot.com/static/demos/blockfactory/index.html">Blockly Developer Tools</a>, <a href="https://blockly-demo.appspot.com/static/demos/code/index.html">Code Editor</a></li>
 </ol>
 <h4 id="genre">Genre</h4>
+<ul>
+<li>Getting started</li>
+<li>Textbook</li>
+</ul>
 <h4 id="links-external--static">Links (External / Static)</h4>
 <ul>
 <li><a href="https://github.com/janzeteachesit/cs-in-algebra">janzeteachesit/cs-in-algebra - GitHub repo</a></li>
@@ -47,23 +69,6 @@ By the end of Course A students will have the tools necessary to turn word probl
 <li>[ ] <a href="https://www.gitbook.com/@janzeteachesit">link-to-page - GitBook</a></li>
 <li>[ ] <a href="https://janzeteachesit.github.io/">link-to-page - gh-pages</a></li>
 </ol>
-<h2 id="structure">Structure</h2>
-<h5 id="thesis--">Thesis -</h5>
-<ul>
-<li>This is what I got from this article or experience:</li>
-<li>This is what I will use it for going forward:</li>
-<li>I was reading blank.  It reminded me of blank experience.</li>
-</ul>
-<h4 id="beginning">Beginning</h4>
-<p><strong><em>establish</em></strong> relationship early in the piece,</p>
-<h4 id="middle">Middle</h4>
-<p><strong><em>sustain</em></strong> it through consistent description,</p>
-<ul>
-<li>Point/Snapshot/Event</li>
-<li>Point/Snapshot/Event</li>
-</ul>
-<h4 id="end">End</h4>
-<p>and (perhaps) <strong><em>transform</em></strong> it when new factors are introduced</p>
 <h3 id="details">Details</h3>
 <ul>
 <li>Pages:</li>
@@ -84,6 +89,23 @@ By the end of Course A students will have the tools necessary to turn word probl
 <li><a href="https://drive.google.com/drive/u/0/folders/0BxQaMnTJamWkfjU3VURSVS1lTHlJamh3Y0dTU3BpMmtQbVN2aEpmWEt2eXBoMVJnRk8xVXM">1-Writing - GDoc Folder</a></li>
 <li><a href="https://app.classeur.io/">Classeur Markdown Editor</a></li>
 </ul>
+<h2 id="structure">Structure</h2>
+<h5 id="thesis--">Thesis -</h5>
+<ul>
+<li>This is what I got from this article or experience:</li>
+<li>This is what I will use it for going forward:</li>
+<li>I was reading blank.  It reminded me of blank experience.</li>
+</ul>
+<h4 id="beginning">Beginning</h4>
+<p><strong><em>establish</em></strong> relationship early in the piece,</p>
+<h4 id="middle">Middle</h4>
+<p><strong><em>sustain</em></strong> it through consistent description,</p>
+<ul>
+<li>Point/Snapshot/Event</li>
+<li>Point/Snapshot/Event</li>
+</ul>
+<h4 id="end">End</h4>
+<p>and (perhaps) <strong><em>transform</em></strong> it when new factors are introduced</p>
 <p>COURSE A</p>
 <p>The first 10 hour course provides students with the foundational skills and knowledge to begin using computer programming as a tool to learn about and develop algebraic functions. Students will be introduced to a graphical programming language designed for Algebra instruction, through which they will gain a deeper understanding of the order of operations, create images with algebraic expressions, and learn a technique for creating functions called the Design Recipe.</p>
 <p>COURSE B</p>
