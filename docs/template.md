@@ -1,10 +1,20 @@
-<h1 id="title">TITLE</h1>
-<h2 id="sub-title">Sub-Title</h2>
-<h3 id="april-10-2017-monday">April 10, 2017, Monday</h3>
-<h3 id="section">#/ 100</h3>
+<h1 id="unit-1---course-a">Unit 1 - Course A</h1>
+<h2 id="code.org-cs-in-algebra"><a href="http://Code.org">Code.org</a> CS in Algebra</h2>
+<h3 id="may-3rd-2017-wednesday">May 3rd, 2017, Wednesday</h3>
+<blockquote>
+<p>The first 10 hour course provides students with the foundational skills and knowledge to begin using computer programming as a tool to learn about and develop algebraic functions. Students will be introduced to a graphical programming language designed for Algebra instruction, through which they will gain a deeper understanding of the order of operations, create images with algebraic expressions, and learn a technique for creating functions called the Design Recipe.<br>
+By the end of Course A students will have the tools necessary to turn word problems from their own Algebra class into functions that can be used as mini apps.</p>
+<ul>
+<li><a href="https://curriculum.code.org/algebra/courseA/">Course A - curriculum.code.org</a></li>
+</ul>
+</blockquote>
+<p><a href="link-to-notes.md">Notes</a></p>
+<h1 id="links">Links</h1>
+<ul>
+<li><a href="https://code.org/curriculum/algebra">What is “Computer Science in Algebra”</a>: from the <a href="http://Code.org">Code.org</a> website</li>
+</ul>
 <h4 id="essential-questionpurpose">Essential Question/Purpose</h4>
 <h4 id="genre--">Genre -</h4>
-<p><a href="link-to-notes.md">Notes</a></p>
 <h4 id="links-external--static">Links (External / Static)</h4>
 <ul>
 <li><a href="https://github.com/janzeteachesit/link-to-repo-this-is-in">link to repo this is in?</a></li>
