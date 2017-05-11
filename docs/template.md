@@ -4,8 +4,7 @@
 <h3 id="essential-questionpurpose---what-is-computer-science-in-algebra">Essential Question/Purpose - What is “Computer Science in Algebra”</h3>
 <p>Computer Science in Algebra is provided and supported free-of-charge and world-wide by <a href="https://code.org/about">Code.org</a>, a non-profit dedicated to expanding access to computer science, and increasing participation by women and underrepresented minorities.</p>
 <p>Course A is the first of a 2-part course that aims to teach algebraic and geometric concepts through computer programming within the context of video game design.  Course A outlines for students the foundation skills and knowledge necessary to begin using computer programming as a tool to learn about and develop algebraic functions.</p>
-<p>Students will be introduced to a graphical programming language called Blockly. They practice using Order of Operations, learn how to create images with algebraic expressions, and learn one technique for creating functions called the Design Recipe.</p>
-<p>By the end of Course A students will have the tools necessary to turn word problems from their own Algebra class into functions that can be used as mini apps.</p>
+<p>Students will be introduced to a graphical programming language called Blockly. They practice using Order of Operations, learn how to create images with algebraic expressions, and learn one technique for creating functions called the Design Recipe. By the end of Course A students should be able to turn Algebra word problems into functions that can be used as mini apps.</p>
 <ul>
 <li><a href="https://curriculum.code.org/algebra/courseA/">Course A - curriculum.code.org</a></li>
 <li>Course A Lessons
