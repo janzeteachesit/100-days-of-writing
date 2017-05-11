@@ -1,7 +1,7 @@
 <h1 id="unit-1---course-a">Unit 1 - Course A</h1>
 <h2 id="code.org-computer-science-in-algebra"><a href="http://Code.org">Code.org</a> Computer Science in Algebra</h2>
 <h3 id="may-3rd-2017-wednesday">May 3rd, 2017, Wednesday</h3>
-<h3 id="essential-questionpurpose---what-is-computer-science-in-algebra">Essential Question/Purpose - What is “Computer Science in Algebra”</h3>
+<h3 id="essential-questionpurpose---describing-what-is-computer-science-in-algebra">Essential Question/Purpose - Describing what is “Computer Science in Algebra”</h3>
 <p>Computer Science in Algebra is provided and supported free-of-charge and world-wide by <a href="https://code.org/about">Code.org</a>, a non-profit dedicated to expanding access to computer science, and increasing participation by women and underrepresented minorities.</p>
 <p>Course A is the first of a 2-part course that aims to teach algebraic and geometric concepts through computer programming within the context of video game design.  Course A outlines for students the foundation skills and knowledge necessary to begin using computer programming as a tool to learn about and develop algebraic functions.</p>
 <p>Students will be introduced to a graphical programming language called Blockly. They practice using Order of Operations, learn how to create images with algebraic expressions, and learn one technique for creating functions called the Design Recipe. By the end of Course A students should be able to turn Algebra word problems into functions that can be used as mini apps.</p>
@@ -9,16 +9,16 @@
 <li><a href="https://curriculum.code.org/algebra/courseA/">Course A - curriculum.code.org</a></li>
 <li>Course A Lessons
 <ul>
-<li><a href="https://curriculum.code.org/algebra/courseA/1/">Lesson 1: Evaluation Blocks and Arithmetic Expressions</a></li>
-<li><a href="https://curriculum.code.org/algebra/courseA/2/">Lesson 2: Strings and Images</a></li>
-<li><a href="https://curriculum.code.org/algebra/courseA/3/">Lesson 3: Contracts, Domain, and Range</a></li>
-<li><a href="https://curriculum.code.org/algebra/courseA/4/">Lesson 4: Writing Contracts</a></li>
-<li><a href="https://curriculum.code.org/algebra/courseA/5/">Lesson 5: Defining Variables and Substitution</a></li>
-<li><a href="https://curriculum.code.org/algebra/courseA/6/">Lesson 6: Fast Functions</a></li>
-<li><a href="https://curriculum.code.org/algebra/courseA/7/">Lesson 7: Composite Functions</a></li>
-<li><a href="https://curriculum.code.org/algebra/courseA/8/">Lesson 8: The Design Recipe</a></li>
-<li><a href="https://curriculum.code.org/algebra/courseA/9/">Lesson 9: Solving Word Problems with the Design Recipe</a></li>
-<li><a href="https://curriculum.code.org/algebra/courseA/10/">Lesson 10: Rocket Height</a></li>
+<li><a href="csa01.md">Lesson 1: Evaluation Blocks and Arithmetic Expressions</a></li>
+<li><a href="csa02.md">Lesson 2: Strings and Images</a></li>
+<li><a href="csa03.md">Lesson 3: Contracts, Domain, and Range</a></li>
+<li><a href="csa04.md">Lesson 4: Writing Contracts</a></li>
+<li><a href="csa05.md">Lesson 5: Defining Variables and Substitution</a></li>
+<li><a href="csa06.md">Lesson 6: Fast Functions</a></li>
+<li><a href="csa07.md">Lesson 7: Composite Functions</a></li>
+<li><a href="csa08.md">Lesson 8: The Design Recipe</a></li>
+<li><a href="csa09.md">Lesson 9: Solving Word Problems with the Design Recipe</a></li>
+<li><a href="csa10.md">Lesson 10: Rocket Height</a></li>
 </ul>
 </li>
 <li><a href="https://code.org/curriculum/algebra">What is “Computer Science in Algebra”</a>: from the <a href="http://Code.org">Code.org</a> website</li>
