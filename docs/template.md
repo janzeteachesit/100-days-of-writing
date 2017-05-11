@@ -1,7 +1,7 @@
 <h1 id="unit-1---course-a">Unit 1 - Course A</h1>
 <h2 id="code.org-computer-science-in-algebra"><a href="http://Code.org">Code.org</a> Computer Science in Algebra</h2>
 <h3 id="may-3rd-2017-wednesday">May 3rd, 2017, Wednesday</h3>
-<h3 id="essential-questionpurpose">Essential Question/Purpose</h3>
+<h3 id="essential-questionpurpose---what-is-computer-science-in-algebra">Essential Question/Purpose - What is “Computer Science in Algebra”</h3>
 <p>Computer Science in Algebra is provided and supported free-of-charge and world-wide by <a href="https://code.org/about">Code.org</a>, a non-profit dedicated to expanding access to computer science, and increasing participation by women and underrepresented minorities.</p>
 <p>Course A is the first of a 2-part course that aims to teach algebraic and geometric concepts through computer programming within the context of video game design.  Course A outlines for students the foundation skills and knowledge necessary to begin using computer programming as a tool to learn about and develop algebraic functions.</p>
 <p>Students will be introduced to a graphical programming language called Blockly. They practice using Order of Operations, learn how to create images with algebraic expressions, and learn one technique for creating functions called the Design Recipe.</p>
@@ -36,11 +36,6 @@
 <li>[x] <a href="https://code.org/about">Code.org</a>: <s>… is a non-profit dedicated to expanding access to computer science, and increasing participation by women and underrepresented minorities.</s></li>
 <li>[ ] <a href="https://developers.google.com/blockly/">Blockly</a> A library for building visual programming editors. see also:  <a href="https://blockly-demo.appspot.com/static/demos/blockfactory/index.html">Blockly Developer Tools</a>, <a href="https://blockly-demo.appspot.com/static/demos/code/index.html">Code Editor</a></li>
 </ol>
-<h4 id="genre">Genre</h4>
-<ul>
-<li>Getting started</li>
-<li>Textbook</li>
-</ul>
 <h4 id="links-external--static">Links (External / Static)</h4>
 <ul>
 <li><a href="https://github.com/janzeteachesit/cs-in-algebra">janzeteachesit/cs-in-algebra - GitHub repo</a></li>
@@ -88,7 +83,12 @@
 <h4 id="thoughts">Thoughts</h4>
 <h4 id="supporting-research">Supporting Research</h4>
 <h2 id="structure">Structure</h2>
-<h5 id="thesis--">Thesis -</h5>
+<h4 id="genre">Genre</h4>
+<ul>
+<li>Getting started</li>
+<li>Textbook</li>
+</ul>
+<h5 id="thesis">Thesis</h5>
 <ul>
 <li>This is what I got from this article or experience:</li>
 <li>This is what I will use it for going forward:</li>
