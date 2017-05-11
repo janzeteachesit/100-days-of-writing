@@ -1,14 +1,13 @@
 <h1 id="unit-1---course-a">Unit 1 - Course A</h1>
-<h2 id="code.org-cs-in-algebra"><a href="http://Code.org">Code.org</a> CS in Algebra</h2>
+<h2 id="code.org-computer-science-in-algebra"><a href="http://Code.org">Code.org</a> Computer Science in Algebra</h2>
 <h3 id="may-3rd-2017-wednesday">May 3rd, 2017, Wednesday</h3>
-<p>Course A is the first of a 2-part course that aims to teach algebraic and geometric concepts through computer programming within the context of video game design.  Course A outlines for students the foundation skills and knowledge necessary to begin using computer programming as a tool to learn about and develop algebraic functions.<br>
-Students will be introduced to a graphical programming language called Blockly.<br>
-They will gain a deeper understanding of the order of operations, how to create images with algebraic expressions, and learn a technique for creating functions called the Design Recipe.<br>
-By the end of Course A students will have the tools necessary to turn word problems from their own Algebra class into functions that can be used as mini apps.</p>
+<p>Computer Science in Algebra is provided and supported free-of-charge and world-wide by <a href="https://code.org/about">Code.org</a>, a non-profit dedicated to expanding access to computer science, and increasing participation by women and underrepresented minorities.</p>
+<p>Course A is the first of a 2-part course that aims to teach algebraic and geometric concepts through computer programming within the context of video game design.  Course A outlines for students the foundation skills and knowledge necessary to begin using computer programming as a tool to learn about and develop algebraic functions.</p>
+<p>Students will be introduced to a graphical programming language called Blockly. They practice using Order of Operations, learn how to create images with algebraic expressions, and learn one technique for creating functions called the Design Recipe.</p>
+<p>By the end of Course A students will have the tools necessary to turn word problems from their own Algebra class into functions that can be used as mini apps.</p>
 <ul>
 <li><a href="https://curriculum.code.org/algebra/courseA/">Course A - curriculum.code.org</a></li>
 </ul>
-<p>CS in Algebra is provided and supported free-of-charge and world-wide by <a href="https://code.org/about">Code.org</a>, a non-profit dedicated to expanding access to computer science, and increasing participation by women and underrepresented minorities.</p>
 <p><a href="coursea-notes.md">Notes</a><br>
 <a href="https://drive.google.com/open?id=1KGs3tFkXC3jZVL6-cxEfluVX8tZv6p06g1jZ1IFrZ2E">CSinALG-A - GDoc</a></p>
 <ul>
@@ -70,6 +69,15 @@ By the end of Course A students will have the tools necessary to turn word probl
 <li>[ ] <a href="https://www.gitbook.com/@janzeteachesit">link-to-page - GitBook</a></li>
 <li>[ ] <a href="https://janzeteachesit.github.io/">link-to-page - gh-pages</a></li>
 </ol>
+<h2 id="other-publications">Other Publications</h2>
+<ul>
+<li><a href="https://janzeteachesit.github.io/Learning-Diary/">Learning Diary</a></li>
+</ul>
+<h2 id="resources">Resources</h2>
+<ul>
+<li><a href="https://drive.google.com/drive/u/0/folders/0BxQaMnTJamWkfjU3VURSVS1lTHlJamh3Y0dTU3BpMmtQbVN2aEpmWEt2eXBoMVJnRk8xVXM">1-Writing - GDoc Folder</a></li>
+<li><a href="https://app.classeur.io/">Classeur Markdown Editor</a></li>
+</ul>
 <h3 id="details">Details</h3>
 <ul>
 <li>Pages:</li>
@@ -81,15 +89,6 @@ By the end of Course A students will have the tools necessary to turn word probl
 <h3 id="todays-progress">Today’s Progress</h3>
 <h4 id="thoughts">Thoughts</h4>
 <h4 id="supporting-research">Supporting Research</h4>
-<h2 id="resources">Resources</h2>
-<ul>
-<li><a href="https://medium.com/@janzeteachesit">My Medium Profile</a></li>
-<li><a href="https://janzeteachesit.github.io/Learning-Diary/">My Learning Diary</a></li>
-<li><a href="https://drive.google.com/open?id=12HMHbp8NEsiuH6AIHkAd4ZdGApVBny8XSR5UNnhTOGE">Blank  - Google Doc</a></li>
-<li><a href="https://medium.com/new-story">New Story - Medium</a></li>
-<li><a href="https://drive.google.com/drive/u/0/folders/0BxQaMnTJamWkfjU3VURSVS1lTHlJamh3Y0dTU3BpMmtQbVN2aEpmWEt2eXBoMVJnRk8xVXM">1-Writing - GDoc Folder</a></li>
-<li><a href="https://app.classeur.io/">Classeur Markdown Editor</a></li>
-</ul>
 <h2 id="structure">Structure</h2>
 <h5 id="thesis--">Thesis -</h5>
 <ul>
