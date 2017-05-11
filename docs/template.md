@@ -1,21 +1,13 @@
 <h1 id="unit-1---course-a">Unit 1 - Course A</h1>
 <h2 id="code.org-computer-science-in-algebra"><a href="http://Code.org">Code.org</a> Computer Science in Algebra</h2>
 <h3 id="may-3rd-2017-wednesday">May 3rd, 2017, Wednesday</h3>
+<h3 id="essential-questionpurpose">Essential Question/Purpose</h3>
 <p>Computer Science in Algebra is provided and supported free-of-charge and world-wide by <a href="https://code.org/about">Code.org</a>, a non-profit dedicated to expanding access to computer science, and increasing participation by women and underrepresented minorities.</p>
 <p>Course A is the first of a 2-part course that aims to teach algebraic and geometric concepts through computer programming within the context of video game design.  Course A outlines for students the foundation skills and knowledge necessary to begin using computer programming as a tool to learn about and develop algebraic functions.</p>
 <p>Students will be introduced to a graphical programming language called Blockly. They practice using Order of Operations, learn how to create images with algebraic expressions, and learn one technique for creating functions called the Design Recipe.</p>
 <p>By the end of Course A students will have the tools necessary to turn word problems from their own Algebra class into functions that can be used as mini apps.</p>
 <ul>
 <li><a href="https://curriculum.code.org/algebra/courseA/">Course A - curriculum.code.org</a></li>
-</ul>
-<p><a href="coursea-notes.md">Notes</a><br>
-<a href="https://drive.google.com/open?id=1KGs3tFkXC3jZVL6-cxEfluVX8tZv6p06g1jZ1IFrZ2E">CSinALG-A - GDoc</a></p>
-<ul>
-<li><a href="https://code.org/curriculum/algebra">What is “Computer Science in Algebra”</a>: from the <a href="http://Code.org">Code.org</a> website</li>
-<li><a href="https://curriculum.code.org/algebra/standards/">Standards Alignment</a> with the Common Core Math Standards</li>
-<li><a href="https://curriculum.code.org/algebra/vocab/">Vocabulary Used</a></li>
-<li><a href="https://curriculum.code.org/algebra/resources/">Resources - Course A</a></li>
-<li><a href="https://curriculum.code.org/algebra/resources/">Resources</a></li>
 <li>Course A Lessons
 <ul>
 <li><a href="https://curriculum.code.org/algebra/courseA/1/">Lesson 1: Evaluation Blocks and Arithmetic Expressions</a></li>
@@ -30,8 +22,14 @@
 <li><a href="https://curriculum.code.org/algebra/courseA/10/">Lesson 10: Rocket Height</a></li>
 </ul>
 </li>
+<li><a href="https://code.org/curriculum/algebra">What is “Computer Science in Algebra”</a>: from the <a href="http://Code.org">Code.org</a> website</li>
+<li><a href="https://curriculum.code.org/algebra/standards/">Standards Alignment</a> with the Common Core Math Standards</li>
+<li><a href="https://curriculum.code.org/algebra/vocab/">Vocabulary Used</a></li>
+<li><a href="https://curriculum.code.org/algebra/resources/">Resources - Course A</a></li>
+<li><a href="https://curriculum.code.org/algebra/resources/">Resources - General</a></li>
 </ul>
-<h3 id="essential-questionpurpose">Essential Question/Purpose</h3>
+<p><a href="https://drive.google.com/open?id=1KGs3tFkXC3jZVL6-cxEfluVX8tZv6p06g1jZ1IFrZ2E">CSinALG-A - GDoc</a></p>
+<p><a href="coursea-notes.md">Notes</a></p>
 <ol>
 <li>[x] <a href="http://Code.org">Code.org</a> CS in Algebra Course A</li>
 <li>[x] <a href="https://curriculum.code.org/algebra/">Code.org CS in Algebra</a>: <s><a href="http://Code.org">Code.org</a> has partnered with Bootstrap to develop a curriculum which teaches algebraic and geometric concepts through computer programming.</s> The twenty lessons focus on concepts like order of operations, the Cartesian plane, function composition and definition, and solving word problems - <s>all within the context of video game design</s>. By shifting classwork from abstract pencil-and-paper problems to a series of relevant programming problems, <a href="http://Code.org">Code.org</a> CS in Algebra demonstrates how algebra applies in the real world, using an exciting, hands-on approach to create something cool.</li>
