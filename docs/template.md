@@ -9,7 +9,8 @@ By the end of Course A students will have the tools necessary to turn word probl
 <li><a href="https://curriculum.code.org/algebra/courseA/">Course A - curriculum.code.org</a></li>
 </ul>
 <p>CS in Algebra is provided and supported free-of-charge and world-wide by <a href="https://code.org/about">Code.org</a>, a non-profit dedicated to expanding access to computer science, and increasing participation by women and underrepresented minorities.</p>
-<p><a href="link-to-notes.md">Notes</a></p>
+<p><a href="coursea-notes.md">Notes</a><br>
+<a href="https://drive.google.com/open?id=1KGs3tFkXC3jZVL6-cxEfluVX8tZv6p06g1jZ1IFrZ2E">CSinALG-A - GDoc</a></p>
 <ul>
 <li><a href="https://code.org/curriculum/algebra">What is “Computer Science in Algebra”</a>: from the <a href="http://Code.org">Code.org</a> website</li>
 <li><a href="https://curriculum.code.org/algebra/standards/">Standards Alignment</a> with the Common Core Math Standards</li>
