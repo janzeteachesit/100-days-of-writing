@@ -116,7 +116,7 @@ and (perhaps) __*transform*__ it when new factors are introduced
 - [Student CC Self Assessments - SD60: Peace River North](http://www.prn.bc.ca/curric/?page_id=483)
 
 **Process / Link(s) to work**
-1. [x] [Notes - GitHub](csl-core-competencies-notes.md)
+1. [ ] [Notes - GitHub](csl-core-competencies-notes.md) - move to https://github.com/janzeteachesit/redefining-the-classroom 
 2. [ ] [Grammarly](https://app.grammarly.com/)
 3. [x] [ - Gdoc](https://docs.google.com/document/d/1hGR6pXyoxl4vIqrfL81tpL6H4woGroByHLCreZKtFJs/edit)
 4. [ ] [ - Medium](https://medium.com/new-story)
